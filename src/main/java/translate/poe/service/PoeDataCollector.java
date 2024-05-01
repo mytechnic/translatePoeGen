@@ -39,9 +39,9 @@ public class PoeDataCollector {
         Dictionary dictionary = new Dictionary();
         for (PoeDataEntity entity : entities) {
             if (entity.getPatternType() == PatternType.PATTERN) {
-                dictionary.getP().put(entity.getSource(), entity.getText());
+                dictionary.getP().put(entity.getSource().toLowerCase(), entity.getText());
             } else {
-                dictionary.getH().put(entity.getSource(), entity.getText());
+                dictionary.getH().put(entity.getSource().toLowerCase(), entity.getText());
             }
         }
 
