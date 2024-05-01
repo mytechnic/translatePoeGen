@@ -6,8 +6,10 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import translate.poe.client.poe.PoeClient;
 import translate.poe.client.poe.model.*;
+import translate.poe.db.PoeCustomRepository;
 import translate.poe.db.PoeDataRepository;
 import translate.poe.db.model.PatternType;
+import translate.poe.db.model.PoeCustomEntity;
 import translate.poe.db.model.PoeDataEntity;
 import translate.poe.db.model.Season;
 import translate.poe.service.model.Dictionary;
@@ -25,19 +27,30 @@ import java.util.regex.Pattern;
 public class PoeDataCollector {
     private final PoeClient poeClient;
     private final PoeDataRepository poeDataRepository;
+    private final PoeCustomRepository poeCustomRepository;
 
     public void save() {
-        saveStatic();
-        saveItems();
-        saveStats();
+//        saveStatic();
+//        saveItems();
+//        saveStats();
         saveFile();
     }
 
     private void saveFile() {
-        List<PoeDataEntity> entities = poeDataRepository.findByOrderBySourceLengthDesc();
 
         Dictionary dictionary = new Dictionary();
-        for (PoeDataEntity entity : entities) {
+
+        List<PoeCustomEntity> poeCustomEntities = poeCustomRepository.findByOrderBySourceLengthDesc();
+        for (PoeCustomEntity entity : poeCustomEntities) {
+            if (entity.getPatternType() == PatternType.PATTERN) {
+                dictionary.getP().put(entity.getSource().toLowerCase(), entity.getText());
+            } else {
+                dictionary.getH().put(entity.getSource().toLowerCase(), entity.getText());
+            }
+        }
+
+        List<PoeDataEntity> poeDataEntities = poeDataRepository.findByOrderBySourceLengthDesc();
+        for (PoeDataEntity entity : poeDataEntities) {
             if (entity.getPatternType() == PatternType.PATTERN) {
                 dictionary.getP().put(entity.getSource().toLowerCase(), entity.getText());
             } else {
