@@ -84,4 +84,9 @@ public class PoeClient {
 
         return data;
     }
+
+    public PassiveSkills getPassiveSkill(Country country) {
+        // TODO
+        return null;
+    }
 }

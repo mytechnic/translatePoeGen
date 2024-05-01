@@ -32,30 +32,28 @@ public class PoeDataCollector {
     public void save() {
 //        saveStatic();
 //        saveItems();
-//        saveStats();
+        saveStats();
+        savePassiveSkill();
         saveFile();
+    }
+
+    private void savePassiveSkill() {
+        Stats us = poeClient.getPassiveSkill(Country.US);
+        Stats kr = poeClient.getPassiveSkill(Country.KR);
     }
 
     private void saveFile() {
 
         Dictionary dictionary = new Dictionary();
 
-        List<PoeCustomEntity> poeCustomEntities = poeCustomRepository.findByOrderBySourceLengthDesc();
-        for (PoeCustomEntity entity : poeCustomEntities) {
-            if (entity.getPatternType() == PatternType.PATTERN) {
-                dictionary.getP().put(entity.getSource().toLowerCase(), entity.getText());
-            } else {
-                dictionary.getH().put(entity.getSource().toLowerCase(), entity.getText());
-            }
-        }
-
         List<PoeDataEntity> poeDataEntities = poeDataRepository.findByOrderBySourceLengthDesc();
         for (PoeDataEntity entity : poeDataEntities) {
-            if (entity.getPatternType() == PatternType.PATTERN) {
-                dictionary.getP().put(entity.getSource().toLowerCase(), entity.getText());
-            } else {
-                dictionary.getH().put(entity.getSource().toLowerCase(), entity.getText());
-            }
+            addDictionary(entity.getPatternType(), dictionary, entity.getSource(), entity.getText());
+        }
+
+        List<PoeCustomEntity> poeCustomEntities = poeCustomRepository.findByOrderBySourceLengthDesc();
+        for (PoeCustomEntity entity : poeCustomEntities) {
+            addDictionary(entity.getPatternType(), dictionary, entity.getSource(), entity.getText());
         }
 
         String data;
@@ -65,6 +63,20 @@ public class PoeDataCollector {
             throw new RuntimeException("JSON 파싱 에러: " + e.getMessage());
         }
         FileUtils.save("./data/translate/kr.json", data);
+    }
+
+    private static void addDictionary(PatternType entity, Dictionary dictionary, String source, String text) {
+        if (entity == PatternType.PATTERN) {
+            if (dictionary.getP().containsKey(source.toLowerCase())) {
+                return;
+            }
+            dictionary.getP().put(source.toLowerCase(), text);
+        } else {
+            if (dictionary.getH().containsKey(source.toLowerCase())) {
+                return;
+            }
+            dictionary.getH().put(source.toLowerCase(), text);
+        }
     }
 
     private void saveStatic() {
@@ -243,7 +255,7 @@ public class PoeDataCollector {
             }
 
             for (int m = 0; m < sourceTexts.length; m++) {
-                if (sourceTexts[m].contains(Pattern.quote("#"))) {
+                if (sourceTexts[m].contains("#")) {
                     String sourceText = sourceTexts[m].replaceAll("#", sourceOption);
                     String targetText = targetTexts[m].replaceAll("#", targetOption);
                     save(category, PatternType.PATTERN, sourceText, targetText);
@@ -259,7 +271,7 @@ public class PoeDataCollector {
         for (int i = 0; i < sourceOptions.size(); i++) {
             String sourceText = source.replaceAll("#", sourceOptions.get(i).getText());
             String targetText = target.replaceAll("#", targetOptions.get(i).getText());
-            save(category, PatternType.PATTERN, sourceText, targetText);
+            save(category, PatternType.STRING, sourceText, targetText);
         }
     }
 
@@ -276,7 +288,7 @@ public class PoeDataCollector {
         }
 
         for (int m = 0; m < sourceTexts.length; m++) {
-            if (sourceTexts[m].contains(Pattern.quote("#"))) {
+            if (sourceTexts[m].contains("#")) {
                 save(category, PatternType.PATTERN, source, target);
             } else {
                 save(category, PatternType.STRING, sourceTexts[m], targetTexts[m]);
@@ -285,7 +297,7 @@ public class PoeDataCollector {
     }
 
     private void singleStore(String category, String source, String target) {
-        if (source.contains(Pattern.quote("#"))) {
+        if (source.contains("#")) {
             save(category, PatternType.PATTERN, source, target);
         } else {
             save(category, PatternType.STRING, source, target);
