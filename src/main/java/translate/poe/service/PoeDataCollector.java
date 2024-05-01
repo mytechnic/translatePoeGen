@@ -27,9 +27,9 @@ public class PoeDataCollector {
     private final PoeDataRepository poeDataRepository;
 
     public void save() {
-//        saveStatic();
-//        saveItems();
-//        saveStats();
+        saveStatic();
+        saveItems();
+        saveStats();
         saveFile();
     }
 
