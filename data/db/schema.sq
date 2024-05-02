@@ -1,0 +1,15 @@
+CREATE TABLE `poe_data` (
+  `no` int unsigned NOT NULL AUTO_INCREMENT,
+  `season` varchar(100) DEFAULT NULL,
+  `category` varchar(100) DEFAULT NULL,
+  `pattern_type` varchar(20) DEFAULT NULL,
+  `source` varchar(500) DEFAULT NULL,
+  `text` varchar(500) DEFAULT NULL,
+  `source_length` int DEFAULT NULL,
+  `text_length` int DEFAULT NULL,
+  `updated` datetime DEFAULT NULL,
+  `created` datetime DEFAULT NULL,
+  PRIMARY KEY (`no`),
+  KEY `IDX1` (`source`) /*!80000 INVISIBLE */,
+  KEY `IDX2` (`text`)
+) ENGINE=InnoDB;
