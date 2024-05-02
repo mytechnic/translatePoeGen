@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 @Data
-public class ClassEntry {
+public class PassiveSkillNode {
     private String name;
-    private List<ClassAscendancy> ascendancies;
+    private List<String> stats;
 }

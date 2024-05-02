@@ -4,12 +4,11 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
+import org.springframework.util.ObjectUtils;
 import translate.poe.client.poe.PoeClient;
 import translate.poe.client.poe.model.*;
-import translate.poe.db.PoeCustomRepository;
 import translate.poe.db.PoeDataRepository;
 import translate.poe.db.model.PatternType;
-import translate.poe.db.model.PoeCustomEntity;
 import translate.poe.db.model.PoeDataEntity;
 import translate.poe.db.model.Season;
 import translate.poe.service.model.Dictionary;
@@ -27,32 +26,71 @@ import java.util.regex.Pattern;
 public class PoeDataCollector {
     private final PoeClient poeClient;
     private final PoeDataRepository poeDataRepository;
-    private final PoeCustomRepository poeCustomRepository;
 
     public void save() {
 //        saveStatic();
 //        saveItems();
-        saveStats();
-        savePassiveSkill();
-        saveFile();
+//        saveStats();
+//        savePassiveSkill();
+//        saveCustom();
+        build();
+    }
+
+    private void saveCustom() {
+        CustomDictionary dictionary = poeClient.getCustom();
+        for (String source : dictionary.getData().keySet()) {
+            store("Custom", source, dictionary.getData().get(source));
+        }
     }
 
     private void savePassiveSkill() {
-        Stats us = poeClient.getPassiveSkill(Country.US);
-        Stats kr = poeClient.getPassiveSkill(Country.KR);
+        PassiveSkills us = poeClient.getPassiveSkill(Country.US);
+        PassiveSkills kr = poeClient.getPassiveSkill(Country.KR);
+
+        for (int i = 0; i < us.getClasses().size(); i++) {
+            if (ObjectUtils.isEmpty(us.getClasses().get(i).getName())) {
+                continue;
+            }
+            store("Class",
+                    us.getClasses().get(i).getName(),
+                    kr.getClasses().get(i).getName());
+        }
+
+        if (us.getAlternateAscendancies() != null) {
+            for (int i = 0; i < us.getAlternateAscendancies().size(); i++) {
+                if (ObjectUtils.isEmpty(us.getAlternateAscendancies().get(i).getName())) {
+                    continue;
+                }
+                store("Alternate Ascendancy",
+                        us.getAlternateAscendancies().get(i).getName(),
+                        kr.getAlternateAscendancies().get(i).getName());
+            }
+        }
+
+        for (String skill : us.getNodes().keySet()) {
+            if (ObjectUtils.isEmpty(us.getNodes().get(skill).getName())) {
+                continue;
+            }
+            store("Passive Node",
+                    us.getNodes().get(skill).getName(),
+                    kr.getNodes().get(skill).getName());
+            for (int i = 0; i < us.getNodes().get(skill).getStats().size(); i++) {
+                if (ObjectUtils.isEmpty(us.getNodes().get(skill).getStats().get(i))) {
+                    continue;
+                }
+                store("Stats",
+                        us.getNodes().get(skill).getStats().get(i),
+                        kr.getNodes().get(skill).getStats().get(i));
+            }
+
+        }
     }
 
-    private void saveFile() {
-
+    private void build() {
         Dictionary dictionary = new Dictionary();
 
         List<PoeDataEntity> poeDataEntities = poeDataRepository.findByOrderBySourceLengthDesc();
         for (PoeDataEntity entity : poeDataEntities) {
-            addDictionary(entity.getPatternType(), dictionary, entity.getSource(), entity.getText());
-        }
-
-        List<PoeCustomEntity> poeCustomEntities = poeCustomRepository.findByOrderBySourceLengthDesc();
-        for (PoeCustomEntity entity : poeCustomEntities) {
             addDictionary(entity.getPatternType(), dictionary, entity.getSource(), entity.getText());
         }
 
@@ -213,6 +251,42 @@ public class PoeDataCollector {
         for (int i = 0; i < us.getResult().size(); i++) {
             Stat sourceItem = us.getResult().get(i);
             Stat targetItem = kr.getResult().get(i);
+
+            if ("pseudo".equals(sourceItem.getId())) {
+                continue;
+            }
+
+            store("Category", sourceItem.getLabel(), targetItem.getLabel());
+
+            for (int j = 0; j < sourceItem.getEntries().size(); j++) {
+                StatEntry sourceItemEntry = sourceItem.getEntries().get(j);
+                StatEntry targetItemEntry = kr.getResult().get(i).getEntries().get(j);
+
+                if (sourceItemEntry.getText() == null || targetItemEntry.getText() == null) {
+                    continue;
+                }
+
+                if (Objects.equals(sourceItemEntry.getText(), targetItemEntry.getText())) {
+                    continue;
+                }
+
+                if (sourceItemEntry.getOption() != null) {
+                    store(sourceItem.getLabel(), sourceItemEntry.getText(), targetItemEntry.getText(),
+                            sourceItemEntry.getOption().getOptions(), targetItemEntry.getOption().getOptions());
+                } else {
+                    store(sourceItem.getLabel(), sourceItemEntry.getText(), targetItemEntry.getText());
+                }
+            }
+        }
+
+        for (int i = 0; i < us.getResult().size(); i++) {
+            Stat sourceItem = us.getResult().get(i);
+            Stat targetItem = kr.getResult().get(i);
+
+            if (!"pseudo".equals(sourceItem.getId())) {
+                continue;
+            }
+
             store("Category", sourceItem.getLabel(), targetItem.getLabel());
 
             for (int j = 0; j < sourceItem.getEntries().size(); j++) {
@@ -239,35 +313,6 @@ public class PoeDataCollector {
 
     private void store(String category, String source, String target,
                        List<StatOptionProperty> sourceOptions, List<StatOptionProperty> targetOptions) {
-        singleStore(category, source, target, sourceOptions, targetOptions);
-    }
-
-    private void multiStore(String category, String source, String target,
-                            List<StatOptionProperty> sourceOptions, List<StatOptionProperty> targetOptions) {
-        for (int i = 0; i < sourceOptions.size(); i++) {
-            String sourceOption = sourceOptions.get(i).getText();
-            String targetOption = targetOptions.get(i).getText();
-
-            String[] sourceTexts = split(source);
-            String[] targetTexts = split(target);
-            if (sourceTexts.length != targetTexts.length) {
-                throw new RuntimeException(String.format("줄 수가 맞지 않음 - source: %s, target: %s", source, target));
-            }
-
-            for (int m = 0; m < sourceTexts.length; m++) {
-                if (sourceTexts[m].contains("#")) {
-                    String sourceText = sourceTexts[m].replaceAll("#", sourceOption);
-                    String targetText = targetTexts[m].replaceAll("#", targetOption);
-                    save(category, PatternType.PATTERN, sourceText, targetText);
-                } else {
-                    save(category, PatternType.STRING, sourceTexts[m], targetTexts[m]);
-                }
-            }
-        }
-    }
-
-    private void singleStore(String category, String source, String target,
-                             List<StatOptionProperty> sourceOptions, List<StatOptionProperty> targetOptions) {
         for (int i = 0; i < sourceOptions.size(); i++) {
             String sourceText = source.replaceAll("#", sourceOptions.get(i).getText());
             String targetText = target.replaceAll("#", targetOptions.get(i).getText());
@@ -276,27 +321,6 @@ public class PoeDataCollector {
     }
 
     private void store(String category, String source, String target) {
-        singleStore(category, source, target);
-    }
-
-    private void multiStore(String category, String source, String target) {
-        String[] sourceTexts = split(source);
-        String[] targetTexts = split(target);
-
-        if (sourceTexts.length != targetTexts.length) {
-            throw new RuntimeException(String.format("줄 수가 맞지 않음 - source: %s, target: %s", source, target));
-        }
-
-        for (int m = 0; m < sourceTexts.length; m++) {
-            if (sourceTexts[m].contains("#")) {
-                save(category, PatternType.PATTERN, source, target);
-            } else {
-                save(category, PatternType.STRING, sourceTexts[m], targetTexts[m]);
-            }
-        }
-    }
-
-    private void singleStore(String category, String source, String target) {
         if (source.contains("#")) {
             save(category, PatternType.PATTERN, source, target);
         } else {

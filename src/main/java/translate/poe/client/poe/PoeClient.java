@@ -9,6 +9,11 @@ import translate.poe.client.poe.model.*;
 import translate.poe.utils.FileUtils;
 import translate.poe.utils.JsonUtils;
 
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.regex.Pattern;
+
 @Slf4j
 @Component
 @RequiredArgsConstructor
@@ -37,28 +42,11 @@ public class PoeClient {
     }
 
     public Stats getStats(Country country) {
-        Stats stats = restClient.build()
+        return restClient.build()
                 .get()
                 .uri(country.getBaseUrl() + "/api/trade/data/stats")
                 .retrieve()
                 .body(Stats.class);
-
-        if (stats == null) {
-            return null;
-        }
-
-        if (country == Country.KR) {
-            for (int i = 0; i < stats.getResult().size(); i++) {
-                for (int j = 0; j < stats.getResult().get(i).getEntries().size(); j++) {
-                    if ("점유되지 않은 생명력이 차서 흡수가 제거되면 #%의 확률로 2초 동안 아드레날린 획득"
-                            .equals(stats.getResult().get(i).getEntries().get(j).getText())) {
-                        stats.getResult().get(i).getEntries().get(j).setText("점유되지 않은 생명력이 차서 흡수가 제거되면\n#%의 확률로 2초 동안 아드레날린 획득");
-                    }
-                }
-            }
-        }
-
-        return save(country, "stats", stats);
     }
 
     public Statics getStatic(Country country) {
@@ -85,8 +73,45 @@ public class PoeClient {
         return data;
     }
 
+    // https://poe.game.daum.net/passive-skill-tree
     public PassiveSkills getPassiveSkill(Country country) {
-        // TODO
-        return null;
+
+        String path = "./data/" + country.name().toLowerCase();
+        String file = path + "/passive-skill-tree.json";
+        String buffer = FileUtils.read(file);
+        try {
+            return JsonUtils.getObjectMapper().readValue(buffer, PassiveSkills.class);
+        } catch (JsonProcessingException e) {
+            throw new RuntimeException("JSON 파싱 에러: " + e.getMessage());
+        }
+    }
+
+    public CustomDictionary getCustom() {
+
+        String file = "./data/translate/custom.txt";
+        List<String> sourceList = FileUtils.readList(file);
+
+        Map<String, String> data = new LinkedHashMap<>();
+        for (String str : sourceList) {
+            String[] z = str.split(Pattern.quote("|"));
+            log.debug("{}", str);
+
+            if (z.length != 2) {
+                continue;
+            }
+            String source = z[0].trim();
+            String text = z[1].trim();
+
+            log.debug("{}: {}", source, text);
+            if (source.isEmpty() || text.isEmpty()) {
+                continue;
+            }
+
+            data.put(z[0].trim(), z[1].trim());
+        }
+
+        CustomDictionary dictionary = new CustomDictionary();
+        dictionary.setData(data);
+        return dictionary;
     }
 }

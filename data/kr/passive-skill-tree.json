@@ -3782,6 +3782,7 @@
       "x": -3163.95,
       "y": -6892.09,
       "orbits": [
+
       ],
       "nodes": [
         "63447",
@@ -4105,6 +4106,7 @@
       "x": -2562.75,
       "y": -5615.56,
       "orbits": [
+
       ],
       "nodes": [
         "42760",
@@ -5224,6 +5226,7 @@
       "x": -482.865,
       "y": -4439.48,
       "orbits": [
+
       ],
       "nodes": [
         "36542",
@@ -5737,6 +5740,7 @@
       "x": 479.525,
       "y": -4439.48,
       "orbits": [
+
       ],
       "nodes": [
         "32210",
@@ -6967,6 +6971,7 @@
       "x": 2529.89,
       "y": -5616.94,
       "orbits": [
+
       ],
       "nodes": [
         "32710",
@@ -7197,6 +7202,7 @@
       "x": 2960.24,
       "y": -6757.65,
       "orbits": [
+
       ],
       "nodes": [
         "5296",
@@ -7283,6 +7289,7 @@
       "x": 3340.44,
       "y": 5024.29,
       "orbits": [
+
       ],
       "nodes": [
         "23471"
@@ -7676,6 +7683,7 @@
       "x": 3898.59,
       "y": -2515.88,
       "orbits": [
+
       ],
       "nodes": [
         "11334",
@@ -8981,6 +8989,7 @@
       "x": 5739.58,
       "y": 2611.82,
       "orbits": [
+
       ],
       "nodes": [
         "41866",
@@ -10651,6 +10660,7 @@
         "10622"
       ],
       "in": [
+
       ]
     },
     "5865": {
@@ -10718,6 +10728,7 @@
       "orbit": 4,
       "orbitIndex": 17,
       "out": [
+
       ],
       "in": [
         "63583",
@@ -10738,6 +10749,7 @@
       "orbit": 4,
       "orbitIndex": 20,
       "out": [
+
       ],
       "in": [
         "8592"
@@ -10781,6 +10793,7 @@
       "orbit": 4,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "48904"
@@ -10902,6 +10915,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "50024"
@@ -10931,6 +10945,7 @@
         "42861"
       ],
       "in": [
+
       ]
     },
     "9271": {
@@ -10949,6 +10964,7 @@
       "orbit": 3,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "5865"
@@ -10961,6 +10977,7 @@
       "ascendancyName": "Berserker",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 1,
       "orbit": 0,
@@ -11015,6 +11032,7 @@
       "orbit": 3,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "46952"
@@ -11036,6 +11054,7 @@
       "orbit": 4,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "20050"
@@ -11120,6 +11139,7 @@
       "orbit": 4,
       "orbitIndex": 19,
       "out": [
+
       ],
       "in": [
         "16745"
@@ -11142,6 +11162,7 @@
       "orbit": 4,
       "orbitIndex": 10,
       "out": [
+
       ],
       "in": [
         "32364"
@@ -11184,6 +11205,7 @@
       "orbit": 3,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "32992"
@@ -11276,6 +11298,7 @@
       "ascendancyName": "Guardian",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 2,
       "orbit": 0,
@@ -11305,6 +11328,7 @@
       "orbit": 3,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "16093"
@@ -11386,6 +11410,7 @@
       "orbit": 3,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "63417"
@@ -11405,6 +11430,7 @@
       "orbit": 3,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "51998"
@@ -11423,6 +11449,7 @@
       "orbit": 4,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "1734",
@@ -11444,6 +11471,7 @@
       "orbit": 3,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "32115"
@@ -11493,6 +11521,7 @@
         "23972"
       ],
       "in": [
+
       ]
     },
     "49153": {
@@ -11568,6 +11597,7 @@
       "orbit": 4,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "62349"
@@ -11580,6 +11610,7 @@
       "ascendancyName": "Juggernaut",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 4,
       "orbit": 0,
@@ -11632,6 +11663,7 @@
       "orbit": 4,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "14870"
@@ -11652,6 +11684,7 @@
       "orbit": 3,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "22637"
@@ -11675,6 +11708,7 @@
       "orbit": 4,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "33167"
@@ -11761,6 +11795,7 @@
       "orbit": 3,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "38387"
@@ -11817,6 +11852,7 @@
       "orbit": 4,
       "orbitIndex": 20,
       "out": [
+
       ],
       "in": [
         "922",
@@ -11904,6 +11940,7 @@
         "29994"
       ],
       "in": [
+
       ]
     },
     "1105": {
@@ -11934,6 +11971,7 @@
       "ascendancyName": "Hierophant",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 5,
       "orbit": 0,
@@ -11956,6 +11994,7 @@
       "ascendancyName": "Chieftain",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 6,
       "orbit": 0,
@@ -12028,6 +12067,7 @@
       "orbit": 4,
       "orbitIndex": 21,
       "out": [
+
       ],
       "in": [
         "47486"
@@ -12087,6 +12127,7 @@
       "orbit": 3,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "10238"
@@ -12105,6 +12146,7 @@
       "orbit": 4,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "42659"
@@ -12242,6 +12284,7 @@
       "orbit": 4,
       "orbitIndex": 10,
       "out": [
+
       ],
       "in": [
         "6028"
@@ -12264,6 +12307,7 @@
       "orbit": 4,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "14996"
@@ -12282,6 +12326,7 @@
       "orbit": 3,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "9971"
@@ -12346,6 +12391,7 @@
       "orbit": 4,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "57222"
@@ -12389,6 +12435,7 @@
       "orbit": 4,
       "orbitIndex": 29,
       "out": [
+
       ],
       "in": [
         "27055"
@@ -12551,6 +12598,7 @@
       "orbit": 4,
       "orbitIndex": 16,
       "out": [
+
       ],
       "in": [
         "37486"
@@ -12570,6 +12618,7 @@
       "orbit": 4,
       "orbitIndex": 10,
       "out": [
+
       ],
       "in": [
         "60769"
@@ -12582,6 +12631,7 @@
       "ascendancyName": "Inquisitor",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 7,
       "orbit": 0,
@@ -12637,6 +12687,7 @@
       "orbit": 4,
       "orbitIndex": 22,
       "out": [
+
       ],
       "in": [
         "24924"
@@ -12655,6 +12706,7 @@
       "orbit": 4,
       "orbitIndex": 31,
       "out": [
+
       ],
       "in": [
         "39142"
@@ -12676,6 +12728,7 @@
       "orbit": 4,
       "orbitIndex": 17,
       "out": [
+
       ],
       "in": [
         "30632"
@@ -12689,6 +12742,7 @@
       "ascendancyName": "Warlock",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -12723,6 +12777,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "23155"
@@ -12861,6 +12916,7 @@
       "ascendancyName": "Warlock",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 8,
       "orbit": 0,
@@ -12872,6 +12928,7 @@
         "19689"
       ],
       "in": [
+
       ]
     },
     "45727": {
@@ -12890,6 +12947,7 @@
       "orbit": 3,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "60511"
@@ -12901,6 +12959,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 9,
       "orbit": 1,
@@ -12909,6 +12968,7 @@
         "36931"
       ],
       "in": [
+
       ]
     },
     "28601": {
@@ -12928,6 +12988,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "57850"
@@ -12950,6 +13011,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "57850"
@@ -12972,6 +13034,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "57850"
@@ -12983,6 +13046,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 13,
       "orbit": 2,
@@ -12992,6 +13056,7 @@
         "36931"
       ],
       "in": [
+
       ]
     },
     "36931": {
@@ -13006,11 +13071,13 @@
         "parent": "17219"
       },
       "stats": [
+
       ],
       "group": 13,
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "49951",
@@ -13023,6 +13090,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 14,
       "orbit": 1,
@@ -13031,6 +13099,7 @@
         "14993"
       ],
       "in": [
+
       ]
     },
     "3854": {
@@ -13039,6 +13108,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 15,
       "orbit": 1,
@@ -13047,6 +13117,7 @@
         "24970"
       ],
       "in": [
+
       ]
     },
     "4194": {
@@ -13078,6 +13149,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "61437"
@@ -13089,6 +13161,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 17,
       "orbit": 2,
@@ -13098,6 +13171,7 @@
         "14993"
       ],
       "in": [
+
       ]
     },
     "14993": {
@@ -13112,11 +13186,13 @@
         "parent": "44169"
       },
       "stats": [
+
       ],
       "group": 17,
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "22046",
@@ -13129,6 +13205,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 18,
       "orbit": 2,
@@ -13138,6 +13215,7 @@
         "24970"
       ],
       "in": [
+
       ]
     },
     "24970": {
@@ -13152,11 +13230,13 @@
         "parent": "49080"
       },
       "stats": [
+
       ],
       "group": 18,
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "3854",
@@ -13184,6 +13264,7 @@
       "orbit": 1,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "61437"
@@ -13216,6 +13297,7 @@
       "isJewelSocket": true,
       "ascendancyName": "Primalist",
       "stats": [
+
       ],
       "group": 20,
       "orbit": 4,
@@ -13234,6 +13316,7 @@
       "isJewelSocket": true,
       "ascendancyName": "Primalist",
       "stats": [
+
       ],
       "group": 20,
       "orbit": 4,
@@ -13252,11 +13335,13 @@
       "isJewelSocket": true,
       "ascendancyName": "Primalist",
       "stats": [
+
       ],
       "group": 20,
       "orbit": 4,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "54139"
@@ -13276,6 +13361,7 @@
       "orbit": 3,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "10539"
@@ -13378,6 +13464,7 @@
       "ascendancyName": "Primalist",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 20,
       "orbit": 0,
@@ -13387,6 +13474,7 @@
         "24462"
       ],
       "in": [
+
       ]
     },
     "42144": {
@@ -13410,6 +13498,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15435"
@@ -13436,6 +13525,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "61437"
@@ -13462,6 +13552,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15435"
@@ -13514,6 +13605,7 @@
       "ascendancyName": "Ascendant",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -13637,6 +13729,7 @@
       "ascendancyName": "Ascendant",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -13698,8 +13791,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "30919": {
@@ -13723,6 +13818,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15435"
@@ -13749,6 +13845,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24798"
@@ -13776,8 +13873,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "49080": {
@@ -13792,11 +13891,13 @@
         "parent": "55190"
       },
       "stats": [
+
       ],
       "group": 30,
       "orbit": 3,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "25441",
@@ -13816,6 +13917,7 @@
         "parent": "55190"
       },
       "stats": [
+
       ],
       "group": 30,
       "orbit": 3,
@@ -13840,6 +13942,7 @@
         "parent": "55190"
       },
       "stats": [
+
       ],
       "group": 30,
       "orbit": 3,
@@ -13858,6 +13961,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 30,
       "orbit": 3,
@@ -13868,6 +13972,7 @@
         "55190"
       ],
       "in": [
+
       ]
     },
     "34774": {
@@ -13892,6 +13997,7 @@
       "orbit": 1,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "24798"
@@ -13921,6 +14027,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24798"
@@ -13933,6 +14040,7 @@
       "ascendancyName": "Ascendant",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 33,
       "orbit": 0,
@@ -14015,6 +14123,7 @@
       "ascendancyName": "Ascendant",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -14122,6 +14231,7 @@
       "ascendancyName": "Ascendant",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -14177,6 +14287,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51782"
@@ -14222,6 +14333,7 @@
       "orbit": 4,
       "orbitIndex": 17,
       "out": [
+
       ],
       "in": [
         "53414"
@@ -14243,6 +14355,7 @@
       "orbit": 4,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "32605"
@@ -14285,6 +14398,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "48606"
@@ -14303,6 +14417,7 @@
       "orbit": 4,
       "orbitIndex": 23,
       "out": [
+
       ],
       "in": [
         "24764"
@@ -14441,6 +14556,7 @@
       "ascendancyName": "Warden",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 37,
       "orbit": 0,
@@ -14452,6 +14568,7 @@
         "32605"
       ],
       "in": [
+
       ]
     },
     "29212": {
@@ -14468,6 +14585,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "29259"
@@ -14495,6 +14613,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51782"
@@ -14519,6 +14638,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51782"
@@ -14547,6 +14667,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49532"
@@ -14732,11 +14853,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 41,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "13164",
@@ -14845,6 +14968,7 @@
         "63184"
       ],
       "in": [
+
       ]
     },
     "63184": {
@@ -14901,11 +15025,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 42,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "25367",
@@ -15295,11 +15421,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 43,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "4940",
@@ -15333,6 +15461,7 @@
         "24224"
       ],
       "in": [
+
       ]
     },
     "42546": {
@@ -15382,6 +15511,7 @@
       "ascendancyName": "Ascendant",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -15527,6 +15657,7 @@
       "ascendancyName": "Ascendant",
       "isMultipleChoice": true,
       "stats": [
+
       ],
       "reminderText": [
         "(세 선택지 중 하나를 선택하십시오)"
@@ -15564,6 +15695,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49532"
@@ -15588,8 +15720,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "34567": {
@@ -15612,6 +15746,7 @@
       "orbit": 1,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "49532"
@@ -15637,6 +15772,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "772"
@@ -15706,11 +15842,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 50,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51559",
@@ -15746,6 +15884,7 @@
         "62416"
       ],
       "in": [
+
       ]
     },
     "54667": {
@@ -15896,6 +16035,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "37639",
@@ -15952,6 +16092,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "772"
@@ -16046,6 +16187,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "46127",
@@ -16094,6 +16236,7 @@
         "40645"
       ],
       "in": [
+
       ]
     },
     "57266": {
@@ -16136,6 +16279,7 @@
       "orbit": 4,
       "orbitIndex": 31,
       "out": [
+
       ],
       "in": [
         "40645",
@@ -16201,11 +16345,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 52,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "40645",
@@ -16240,6 +16386,7 @@
         "14832"
       ],
       "in": [
+
       ]
     },
     "58556": {
@@ -16263,6 +16410,7 @@
         "44202"
       ],
       "in": [
+
       ]
     },
     "31961": {
@@ -16283,6 +16431,7 @@
         "63282"
       ],
       "in": [
+
       ]
     },
     "26712": {
@@ -16330,11 +16479,13 @@
         "proxy": "30275"
       },
       "stats": [
+
       ],
       "group": 55,
       "orbit": 1,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "30275",
@@ -16362,6 +16513,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "772"
@@ -16385,6 +16537,7 @@
         "26270"
       ],
       "in": [
+
       ]
     },
     "35260": {
@@ -16415,6 +16568,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "15046",
@@ -16510,11 +16664,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 58,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "19103",
@@ -16615,6 +16771,7 @@
         "15046"
       ],
       "in": [
+
       ]
     },
     "25332": {
@@ -16630,6 +16787,7 @@
       "orbit": 3,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "29106",
@@ -16879,11 +17037,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 68,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "861"
@@ -16997,6 +17157,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26270",
@@ -17041,6 +17202,7 @@
         "27235"
       ],
       "in": [
+
       ]
     },
     "27235": {
@@ -17091,11 +17253,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 69,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "28449"
@@ -17154,11 +17318,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 70,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "46471"
@@ -17384,6 +17550,7 @@
         "64210"
       ],
       "in": [
+
       ]
     },
     "31292": {
@@ -17445,11 +17612,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 71,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "60619",
@@ -17475,6 +17644,7 @@
         "25796"
       ],
       "in": [
+
       ]
     },
     "31604": {
@@ -17541,11 +17711,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 72,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26023"
@@ -17636,6 +17808,7 @@
         "5233"
       ],
       "in": [
+
       ]
     },
     "24858": {
@@ -17718,11 +17891,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 73,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24858"
@@ -17862,11 +18037,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 74,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "30439",
@@ -17960,6 +18137,7 @@
       "orbit": 3,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "30439",
@@ -18056,11 +18234,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 75,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53757"
@@ -18201,11 +18381,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 76,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "58831"
@@ -18338,11 +18520,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 77,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63635"
@@ -18606,11 +18790,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 78,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51108"
@@ -18688,11 +18874,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 79,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "30302"
@@ -18713,6 +18901,7 @@
         "59928"
       ],
       "in": [
+
       ]
     },
     "48822": {
@@ -18748,6 +18937,7 @@
         "55649"
       ],
       "in": [
+
       ]
     },
     "30380": {
@@ -18844,11 +19034,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 80,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53118"
@@ -18877,6 +19069,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 81,
       "orbit": 2,
@@ -18980,6 +19173,7 @@
         "53793"
       ],
       "in": [
+
       ]
     },
     "55676": {
@@ -19078,11 +19272,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 82,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "33287"
@@ -19181,11 +19377,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 83,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "56359"
@@ -19207,6 +19405,7 @@
         "5233"
       ],
       "in": [
+
       ]
     },
     "40766": {
@@ -19224,6 +19423,7 @@
         "37999"
       ],
       "in": [
+
       ]
     },
     "37999": {
@@ -19252,6 +19452,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 84,
       "orbit": 0,
@@ -19261,6 +19462,7 @@
         "34171"
       ],
       "in": [
+
       ]
     },
     "11730": {
@@ -19280,6 +19482,7 @@
       "orbit": 3,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "40766",
@@ -19380,6 +19583,7 @@
         "44202"
       ],
       "in": [
+
       ]
     },
     "38836": {
@@ -19494,11 +19698,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 85,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "27137"
@@ -19616,11 +19822,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 86,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "35958"
@@ -19666,6 +19874,7 @@
         "23027"
       ],
       "in": [
+
       ]
     },
     "10031": {
@@ -19732,11 +19941,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 87,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "36949"
@@ -19809,11 +20020,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 89,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26564"
@@ -19835,6 +20048,7 @@
         "50570"
       ],
       "in": [
+
       ]
     },
     "1572": {
@@ -19957,6 +20171,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "64210"
@@ -20003,6 +20218,7 @@
         "3644"
       ],
       "in": [
+
       ]
     },
     "5916": {
@@ -20111,11 +20327,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 93,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "29049"
@@ -20256,11 +20474,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 94,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32932"
@@ -20337,6 +20557,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7444"
@@ -20473,11 +20694,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 97,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "54629"
@@ -20489,6 +20712,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 98,
       "orbit": 1,
@@ -20497,6 +20721,7 @@
         "61666"
       ],
       "in": [
+
       ]
     },
     "40439": {
@@ -20546,11 +20771,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 99,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21389"
@@ -20733,11 +20960,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 100,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "31257",
@@ -20797,6 +21026,7 @@
         "14930"
       ],
       "in": [
+
       ]
     },
     "11792": {
@@ -20997,6 +21227,7 @@
         "6764"
       ],
       "in": [
+
       ]
     },
     "32241": {
@@ -21046,11 +21277,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 101,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "58218"
@@ -21074,6 +21307,7 @@
         "62363"
       ],
       "in": [
+
       ]
     },
     "64395": {
@@ -21170,11 +21404,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 103,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "64395",
@@ -21452,6 +21688,7 @@
         "48505"
       ],
       "in": [
+
       ]
     },
     "48505": {
@@ -21501,11 +21738,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 106,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65108"
@@ -21576,6 +21815,7 @@
         "40653"
       ],
       "in": [
+
       ]
     },
     "28862": {
@@ -21634,11 +21874,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 107,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63422"
@@ -21650,6 +21892,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 108,
       "orbit": 1,
@@ -21658,6 +21901,7 @@
         "12613"
       ],
       "in": [
+
       ]
     },
     "39713": {
@@ -21678,6 +21922,7 @@
         "15631"
       ],
       "in": [
+
       ]
     },
     "2550": {
@@ -21738,6 +21983,7 @@
         "5430"
       ],
       "in": [
+
       ]
     },
     "48267": {
@@ -21791,11 +22037,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 110,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "2550",
@@ -21861,6 +22109,7 @@
         "10221"
       ],
       "in": [
+
       ]
     },
     "28284": {
@@ -21910,11 +22159,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 112,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49772"
@@ -21979,6 +22230,7 @@
         "28284"
       ],
       "in": [
+
       ]
     },
     "46842": {
@@ -22003,6 +22255,7 @@
         "16123"
       ],
       "in": [
+
       ]
     },
     "16123": {
@@ -22055,11 +22308,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 113,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "46842"
@@ -22114,6 +22369,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "58402"
@@ -22167,11 +22423,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 115,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6967"
@@ -22193,6 +22451,7 @@
         "6764"
       ],
       "in": [
+
       ]
     },
     "62767": {
@@ -22280,6 +22539,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 116,
       "orbit": 2,
@@ -22303,6 +22563,7 @@
         "parent": "46519"
       },
       "stats": [
+
       ],
       "group": 116,
       "orbit": 2,
@@ -22346,6 +22607,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "10031",
@@ -22469,6 +22731,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "44429",
@@ -22576,6 +22839,7 @@
         "49652"
       ],
       "in": [
+
       ]
     },
     "22067": {
@@ -22620,11 +22884,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 124,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49645"
@@ -22678,6 +22944,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 126,
       "orbit": 1,
@@ -22686,6 +22953,7 @@
         "51198"
       ],
       "in": [
+
       ]
     },
     "55706": {
@@ -22694,6 +22962,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 127,
       "orbit": 2,
@@ -22703,6 +22972,7 @@
         "29712"
       ],
       "in": [
+
       ]
     },
     "12613": {
@@ -22717,11 +22987,13 @@
         "parent": "29712"
       },
       "stats": [
+
       ],
       "group": 127,
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "40114",
@@ -22780,6 +23052,7 @@
         "885"
       ],
       "in": [
+
       ]
     },
     "24324": {
@@ -22858,11 +23131,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 128,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24324"
@@ -22924,6 +23199,7 @@
         "14930"
       ],
       "in": [
+
       ]
     },
     "2411": {
@@ -23059,11 +23335,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 131,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "5126"
@@ -23107,6 +23385,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "14930"
@@ -23165,11 +23444,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 134,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "35685"
@@ -23191,6 +23472,7 @@
         "35791"
       ],
       "in": [
+
       ]
     },
     "7898": {
@@ -23275,6 +23557,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 135,
       "orbit": 1,
@@ -23283,6 +23566,7 @@
         "16218"
       ],
       "in": [
+
       ]
     },
     "32245": {
@@ -23306,6 +23590,7 @@
         "50422"
       ],
       "in": [
+
       ]
     },
     "50197": {
@@ -23326,6 +23611,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "50422"
@@ -23479,6 +23765,7 @@
         "34130"
       ],
       "in": [
+
       ]
     },
     "60169": {
@@ -23563,6 +23850,7 @@
         "65308"
       ],
       "in": [
+
       ]
     },
     "31928": {
@@ -23618,6 +23906,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "31928",
@@ -23646,6 +23935,7 @@
         "32482"
       ],
       "in": [
+
       ]
     },
     "37884": {
@@ -23695,6 +23985,7 @@
       "orbit": 3,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "6718",
@@ -23731,6 +24022,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 140,
       "orbit": 2,
@@ -23754,6 +24046,7 @@
         "parent": "23756"
       },
       "stats": [
+
       ],
       "group": 140,
       "orbit": 2,
@@ -23815,11 +24108,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 141,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "20832"
@@ -23855,6 +24150,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "64426",
@@ -23969,11 +24265,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 142,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "36859"
@@ -24044,6 +24342,7 @@
         "36859"
       ],
       "in": [
+
       ]
     },
     "36859": {
@@ -24222,11 +24521,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 143,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "55772"
@@ -24387,6 +24688,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44799",
@@ -24435,6 +24737,7 @@
         "42800"
       ],
       "in": [
+
       ]
     },
     "58540": {
@@ -24503,11 +24806,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 145,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7440"
@@ -24547,6 +24852,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 146,
       "orbit": 2,
@@ -24556,6 +24862,7 @@
         "48679"
       ],
       "in": [
+
       ]
     },
     "16218": {
@@ -24570,11 +24877,13 @@
         "parent": "48679"
       },
       "stats": [
+
       ],
       "group": 146,
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "18361",
@@ -24593,6 +24902,7 @@
         "parent": "2491"
       },
       "stats": [
+
       ],
       "group": 147,
       "orbit": 3,
@@ -24617,6 +24927,7 @@
         "parent": "2491"
       },
       "stats": [
+
       ],
       "group": 147,
       "orbit": 3,
@@ -24641,6 +24952,7 @@
         "parent": "2491"
       },
       "stats": [
+
       ],
       "group": 147,
       "orbit": 3,
@@ -24659,6 +24971,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 147,
       "orbit": 3,
@@ -24771,6 +25084,7 @@
         "50071"
       ],
       "in": [
+
       ]
     },
     "50071": {
@@ -24832,11 +25146,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 148,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "39743"
@@ -24969,11 +25285,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 149,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "28034"
@@ -25036,11 +25354,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 150,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45657"
@@ -25139,6 +25459,7 @@
         "42668"
       ],
       "in": [
+
       ]
     },
     "9505": {
@@ -25211,11 +25532,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 151,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "43689"
@@ -25284,6 +25607,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "59728",
@@ -25339,6 +25663,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "58453",
@@ -25369,6 +25694,7 @@
         "62303"
       ],
       "in": [
+
       ]
     },
     "31819": {
@@ -25412,6 +25738,7 @@
         "25011"
       ],
       "in": [
+
       ]
     },
     "48287": {
@@ -25513,11 +25840,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 154,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6289"
@@ -25607,6 +25936,7 @@
         "14930"
       ],
       "in": [
+
       ]
     },
     "13922": {
@@ -25695,11 +26025,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 155,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "13922"
@@ -25762,11 +26094,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 156,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "38922"
@@ -25866,6 +26200,7 @@
         "38922"
       ],
       "in": [
+
       ]
     },
     "8460": {
@@ -25921,11 +26256,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 157,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49445"
@@ -25947,6 +26284,7 @@
         "43833"
       ],
       "in": [
+
       ]
     },
     "64181": {
@@ -26007,6 +26345,7 @@
         "49445"
       ],
       "in": [
+
       ]
     },
     "43833": {
@@ -26020,6 +26359,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "19261",
@@ -26086,11 +26426,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 158,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "55002"
@@ -26351,11 +26693,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 160,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21413"
@@ -26485,11 +26829,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 161,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "30160"
@@ -26507,6 +26853,7 @@
         "parent": "7960"
       },
       "stats": [
+
       ],
       "group": 162,
       "orbit": 3,
@@ -26531,6 +26878,7 @@
         "parent": "7960"
       },
       "stats": [
+
       ],
       "group": 162,
       "orbit": 3,
@@ -26555,6 +26903,7 @@
         "parent": "7960"
       },
       "stats": [
+
       ],
       "group": 162,
       "orbit": 3,
@@ -26573,6 +26922,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 162,
       "orbit": 3,
@@ -26591,6 +26941,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 163,
       "orbit": 2,
@@ -26614,6 +26965,7 @@
         "parent": "10532"
       },
       "stats": [
+
       ],
       "group": 163,
       "orbit": 2,
@@ -26636,6 +26988,7 @@
         "proxy": "28650"
       },
       "stats": [
+
       ],
       "group": 164,
       "orbit": 1,
@@ -26662,6 +27015,7 @@
       "orbit": 1,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "2491",
@@ -26687,6 +27041,7 @@
         "18901"
       ],
       "in": [
+
       ]
     },
     "17735": {
@@ -26754,6 +27109,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "6237",
@@ -26836,6 +27192,7 @@
         "49254"
       ],
       "in": [
+
       ]
     },
     "6237": {
@@ -26862,6 +27219,7 @@
         "44529"
       ],
       "in": [
+
       ]
     },
     "26866": {
@@ -27247,11 +27605,13 @@
         "proxy": "43989"
       },
       "stats": [
+
       ],
       "group": 178,
       "orbit": 1,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "43989",
@@ -27308,11 +27668,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 179,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6770"
@@ -27386,6 +27748,7 @@
         "12246"
       ],
       "in": [
+
       ]
     },
     "6770": {
@@ -27424,6 +27787,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "58763",
@@ -27490,6 +27854,7 @@
         "32455"
       ],
       "in": [
+
       ]
     },
     "5726": {
@@ -27539,11 +27904,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 180,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32455"
@@ -27629,11 +27996,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 181,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "36915"
@@ -27655,6 +28024,7 @@
         "10904"
       ],
       "in": [
+
       ]
     },
     "10904": {
@@ -27715,6 +28085,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 182,
       "orbit": 2,
@@ -27724,6 +28095,7 @@
         "9408"
       ],
       "in": [
+
       ]
     },
     "2311": {
@@ -27738,6 +28110,7 @@
         "parent": "9408"
       },
       "stats": [
+
       ],
       "group": 182,
       "orbit": 2,
@@ -27855,11 +28228,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 184,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "27119"
@@ -27979,11 +28354,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 185,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "35436"
@@ -28009,6 +28386,7 @@
         "8426"
       ],
       "in": [
+
       ]
     },
     "8426": {
@@ -28104,6 +28482,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "487"
@@ -28188,11 +28567,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 188,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "14001"
@@ -28293,11 +28674,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 190,
       "orbit": 1,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "23984"
@@ -28339,6 +28722,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "50862"
@@ -28408,11 +28792,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 193,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "22702"
@@ -28482,6 +28868,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "4977",
@@ -28507,6 +28894,7 @@
         "53957"
       ],
       "in": [
+
       ]
     },
     "7956": {
@@ -28515,11 +28903,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 194,
       "orbit": 1,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "2311"
@@ -28602,11 +28992,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 195,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "27308"
@@ -28681,6 +29073,7 @@
         "39841"
       ],
       "in": [
+
       ]
     },
     "58869": {
@@ -28787,11 +29180,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 196,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "39986"
@@ -28827,6 +29222,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7162",
@@ -28886,11 +29282,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 197,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "42009"
@@ -28922,6 +29320,7 @@
         "54340"
       ],
       "in": [
+
       ]
     },
     "38706": {
@@ -28946,8 +29345,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "64695": {
@@ -29104,11 +29505,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 199,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "22133"
@@ -29291,6 +29694,7 @@
         "9294"
       ],
       "in": [
+
       ]
     },
     "9294": {
@@ -29414,6 +29818,7 @@
         "26866"
       ],
       "in": [
+
       ]
     },
     "31758": {
@@ -29524,11 +29929,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 204,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "57839"
@@ -29598,6 +30005,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "35053",
@@ -29636,11 +30044,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 205,
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "15405"
@@ -29662,6 +30072,7 @@
         "15405"
       ],
       "in": [
+
       ]
     },
     "15405": {
@@ -29740,6 +30151,7 @@
         "42760"
       ],
       "in": [
+
       ]
     },
     "35556": {
@@ -29776,6 +30188,7 @@
         "20228"
       ],
       "in": [
+
       ]
     },
     "9995": {
@@ -29806,6 +30219,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "63033",
@@ -29948,11 +30362,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 209,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63033",
@@ -30023,11 +30439,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 210,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65273"
@@ -30122,6 +30540,7 @@
         "43057"
       ],
       "in": [
+
       ]
     },
     "9149": {
@@ -30269,11 +30688,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 211,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "11820"
@@ -30295,6 +30716,7 @@
         "42760"
       ],
       "in": [
+
       ]
     },
     "3471": {
@@ -30348,11 +30770,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 212,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "48298"
@@ -30583,6 +31007,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "42760"
@@ -30667,11 +31092,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 220,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "19897"
@@ -30728,6 +31155,7 @@
         "39841"
       ],
       "in": [
+
       ]
     },
     "4247": {
@@ -30794,6 +31222,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "23215",
@@ -30822,6 +31251,7 @@
         "12503"
       ],
       "in": [
+
       ]
     },
     "12503": {
@@ -30880,11 +31310,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 221,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "4854"
@@ -30932,6 +31364,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "14056"
@@ -30951,6 +31384,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "50340",
@@ -30994,6 +31428,7 @@
         "5065"
       ],
       "in": [
+
       ]
     },
     "60031": {
@@ -31100,11 +31535,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 224,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "60031"
@@ -31188,11 +31625,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 226,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "20835"
@@ -31269,6 +31708,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "16380",
@@ -31316,6 +31756,7 @@
         "35221"
       ],
       "in": [
+
       ]
     },
     "35221": {
@@ -31369,11 +31810,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 227,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "2225"
@@ -31477,11 +31920,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 229,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63944"
@@ -31521,6 +31966,7 @@
         "56066"
       ],
       "in": [
+
       ]
     },
     "56066": {
@@ -31534,6 +31980,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "63447",
@@ -31645,11 +32092,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 230,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "25970"
@@ -31759,11 +32208,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 231,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65107"
@@ -31851,6 +32302,7 @@
         "14056"
       ],
       "in": [
+
       ]
     },
     "22088": {
@@ -31871,6 +32323,7 @@
         "55332"
       ],
       "in": [
+
       ]
     },
     "46340": {
@@ -31960,11 +32413,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 236,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "29861"
@@ -32082,6 +32537,7 @@
       "name": "템플러",
       "icon": "Art/2DArt/SkillIcons/passives/axedmgspeed.png",
       "stats": [
+
       ],
       "classStartIndex": 5,
       "group": 237,
@@ -32122,6 +32578,7 @@
       "name": "머라우더",
       "icon": "Art/2DArt/SkillIcons/passives/blankStr.png",
       "stats": [
+
       ],
       "classStartIndex": 1,
       "group": 238,
@@ -32135,6 +32592,7 @@
         "29294"
       ],
       "in": [
+
       ]
     },
     "31628": {
@@ -32175,6 +32633,7 @@
         "60398"
       ],
       "in": [
+
       ]
     },
     "22703": {
@@ -32273,11 +32732,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 242,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "10016",
@@ -32447,6 +32908,7 @@
         "35118"
       ],
       "in": [
+
       ]
     },
     "57257": {
@@ -32468,6 +32930,7 @@
         "6741"
       ],
       "in": [
+
       ]
     },
     "40907": {
@@ -32489,6 +32952,7 @@
         "43374"
       ],
       "in": [
+
       ]
     },
     "23659": {
@@ -32559,6 +33023,7 @@
         "50029"
       ],
       "in": [
+
       ]
     },
     "27307": {
@@ -32612,11 +33077,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 245,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "50029"
@@ -32706,11 +33173,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 246,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "27301"
@@ -32813,6 +33282,7 @@
         "6884"
       ],
       "in": [
+
       ]
     },
     "27140": {
@@ -32832,6 +33302,7 @@
       "orbit": 2,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "27301",
@@ -32861,6 +33332,7 @@
         "43818"
       ],
       "in": [
+
       ]
     },
     "39648": {
@@ -32875,6 +33347,7 @@
       "orbit": 2,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "17821",
@@ -32946,11 +33419,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 247,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21330"
@@ -33017,6 +33492,7 @@
         "63447"
       ],
       "in": [
+
       ]
     },
     "48971": {
@@ -33154,11 +33630,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 248,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "48556",
@@ -33304,11 +33782,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 249,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51748"
@@ -33450,11 +33930,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 251,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "37647"
@@ -33489,6 +33971,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "38664",
@@ -33510,6 +33993,7 @@
         "37647"
       ],
       "in": [
+
       ]
     },
     "37647": {
@@ -33610,11 +34094,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 252,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26294"
@@ -33879,11 +34365,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 254,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9194"
@@ -33944,6 +34432,7 @@
         "46340"
       ],
       "in": [
+
       ]
     },
     "23690": {
@@ -34021,11 +34510,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 256,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "23690"
@@ -34139,11 +34630,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 257,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "62802"
@@ -34188,6 +34681,7 @@
         "60398"
       ],
       "in": [
+
       ]
     },
     "42981": {
@@ -34286,11 +34780,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 259,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53802"
@@ -34357,6 +34853,7 @@
       "orbit": 4,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "37623"
@@ -34379,6 +34876,7 @@
       "orbit": 4,
       "orbitIndex": 29,
       "out": [
+
       ],
       "in": [
         "24538"
@@ -34422,6 +34920,7 @@
       "orbit": 3,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "14726"
@@ -34536,6 +35035,7 @@
       "orbit": 3,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "33179"
@@ -34584,6 +35084,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "3651"
@@ -34596,6 +35097,7 @@
       "ascendancyName": "Gladiator",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 260,
       "orbit": 0,
@@ -34724,11 +35226,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 261,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "60781"
@@ -34809,11 +35313,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 262,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24256"
@@ -34914,6 +35420,7 @@
         "63447"
       ],
       "in": [
+
       ]
     },
     "35035": {
@@ -34980,11 +35487,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 263,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "64355"
@@ -35006,6 +35515,7 @@
         "14021"
       ],
       "in": [
+
       ]
     },
     "44183": {
@@ -35103,11 +35613,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 264,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7555"
@@ -35128,6 +35640,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6741"
@@ -35139,11 +35652,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 266,
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "49178"
@@ -35242,11 +35757,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 267,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44562"
@@ -35389,11 +35906,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 268,
       "orbit": 2,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "7388"
@@ -35456,6 +35975,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "30030",
@@ -35481,6 +36001,7 @@
         "26096"
       ],
       "in": [
+
       ]
     },
     "29543": {
@@ -35599,11 +36120,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 270,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26096"
@@ -35646,6 +36169,7 @@
       "orbit": 4,
       "orbitIndex": 14,
       "out": [
+
       ],
       "in": [
         "48124"
@@ -35689,6 +36213,7 @@
       "orbit": 4,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "6728"
@@ -35751,6 +36276,7 @@
       "orbit": 4,
       "orbitIndex": 23,
       "out": [
+
       ],
       "in": [
         "31316"
@@ -35776,6 +36302,7 @@
       "orbit": 4,
       "orbitIndex": 17,
       "out": [
+
       ],
       "in": [
         "43242"
@@ -35871,6 +36398,7 @@
       "orbit": 4,
       "orbitIndex": 26,
       "out": [
+
       ],
       "in": [
         "31984"
@@ -35890,6 +36418,7 @@
       "orbit": 4,
       "orbitIndex": 28,
       "out": [
+
       ],
       "in": [
         "17018"
@@ -35902,6 +36431,7 @@
       "ascendancyName": "Occultist",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 271,
       "orbit": 0,
@@ -35964,11 +36494,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 272,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45803",
@@ -36128,11 +36660,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 273,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7688"
@@ -36252,11 +36786,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 274,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "57900"
@@ -36298,6 +36834,7 @@
         "43374"
       ],
       "in": [
+
       ]
     },
     "57900": {
@@ -36377,11 +36914,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 275,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "50858"
@@ -36429,6 +36968,7 @@
         "15451"
       ],
       "in": [
+
       ]
     },
     "15451": {
@@ -36484,6 +37024,7 @@
         "22356"
       ],
       "in": [
+
       ]
     },
     "4378": {
@@ -36497,6 +37038,7 @@
       "orbit": 2,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "37800",
@@ -36606,11 +37148,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 276,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "22356"
@@ -36807,11 +37351,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 278,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "1340"
@@ -36877,11 +37423,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 279,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "34284"
@@ -36898,6 +37446,7 @@
       "orbit": 2,
       "orbitIndex": 6,
       "out": [
+
       ],
       "in": [
         "17020",
@@ -36964,6 +37513,7 @@
         "45372"
       ],
       "in": [
+
       ]
     },
     "31875": {
@@ -36983,6 +37533,7 @@
         "22062"
       ],
       "in": [
+
       ]
     },
     "50288": {
@@ -37000,6 +37551,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "46910"
@@ -37020,6 +37572,7 @@
         "9432"
       ],
       "in": [
+
       ]
     },
     "34157": {
@@ -37033,6 +37586,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "7938",
@@ -37116,11 +37670,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 282,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9432"
@@ -37248,6 +37804,7 @@
         "10490"
       ],
       "in": [
+
       ]
     },
     "25237": {
@@ -37342,11 +37899,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 285,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26960",
@@ -37369,6 +37928,7 @@
         "33479"
       ],
       "in": [
+
       ]
     },
     "55866": {
@@ -37383,6 +37943,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "47312",
@@ -37418,6 +37979,7 @@
         "55866"
       ],
       "in": [
+
       ]
     },
     "5348": {
@@ -37467,11 +38029,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 286,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45317"
@@ -37508,6 +38072,7 @@
       "orbit": 3,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "65167",
@@ -37530,6 +38095,7 @@
         "12702"
       ],
       "in": [
+
       ]
     },
     "62021": {
@@ -37543,6 +38109,7 @@
       "orbit": 3,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "65034",
@@ -37599,6 +38166,7 @@
         "12702"
       ],
       "in": [
+
       ]
     },
     "55485": {
@@ -37624,6 +38192,7 @@
         "12382"
       ],
       "in": [
+
       ]
     },
     "12382": {
@@ -37673,11 +38242,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 288,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "55485",
@@ -37751,6 +38322,7 @@
         "46578"
       ],
       "in": [
+
       ]
     },
     "27718": {
@@ -37768,6 +38340,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "29292",
@@ -37796,6 +38369,7 @@
         "8629"
       ],
       "in": [
+
       ]
     },
     "8629": {
@@ -37858,11 +38432,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 290,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "12809"
@@ -37915,11 +38491,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 291,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9261"
@@ -38067,6 +38645,7 @@
         "21958"
       ],
       "in": [
+
       ]
     },
     "14936": {
@@ -38133,11 +38712,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 293,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21958"
@@ -38196,11 +38777,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 294,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "34973"
@@ -38222,6 +38805,7 @@
         "24865"
       ],
       "in": [
+
       ]
     },
     "65400": {
@@ -38462,11 +39046,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 295,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15400"
@@ -38487,6 +39073,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24083"
@@ -38549,6 +39136,7 @@
         "12852"
       ],
       "in": [
+
       ]
     },
     "12852": {
@@ -38625,6 +39213,7 @@
       "orbit": 3,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "4184",
@@ -38696,6 +39285,7 @@
         "4184"
       ],
       "in": [
+
       ]
     },
     "1031": {
@@ -38759,6 +39349,7 @@
         "34031"
       ],
       "in": [
+
       ]
     },
     "31471": {
@@ -38825,11 +39416,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 301,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "1325"
@@ -38850,6 +39443,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "46578"
@@ -38933,11 +39527,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 304,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21973"
@@ -38954,6 +39550,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "10490",
@@ -38983,6 +39580,7 @@
         "22970"
       ],
       "in": [
+
       ]
     },
     "34306": {
@@ -39017,6 +39615,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "10490"
@@ -39047,6 +39646,7 @@
         "53188"
       ],
       "in": [
+
       ]
     },
     "29781": {
@@ -39060,6 +39660,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44184",
@@ -39133,11 +39734,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 306,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24362"
@@ -39154,6 +39757,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51291"
@@ -39199,6 +39803,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 307,
       "orbit": 0,
@@ -39352,11 +39957,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 308,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "1006"
@@ -39390,6 +39997,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "33479",
@@ -39417,6 +40025,7 @@
         "41522"
       ],
       "in": [
+
       ]
     },
     "38789": {
@@ -39520,6 +40129,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "18715",
@@ -39563,6 +40173,7 @@
         "38789"
       ],
       "in": [
+
       ]
     },
     "11924": {
@@ -39612,6 +40223,7 @@
         "34927"
       ],
       "in": [
+
       ]
     },
     "34927": {
@@ -39665,11 +40277,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 309,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "11924",
@@ -39813,6 +40427,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "57061",
@@ -39845,6 +40460,7 @@
         "25186"
       ],
       "in": [
+
       ]
     },
     "25186": {
@@ -39897,11 +40513,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 311,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "5289"
@@ -40019,11 +40637,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 314,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "544",
@@ -40043,6 +40663,7 @@
       "orbit": 3,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "61039",
@@ -40083,6 +40704,7 @@
         "7786"
       ],
       "in": [
+
       ]
     },
     "46291": {
@@ -40171,6 +40793,7 @@
         "24083"
       ],
       "in": [
+
       ]
     },
     "30825": {
@@ -40361,11 +40984,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 317,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63933"
@@ -40387,6 +41012,7 @@
         "63933"
       ],
       "in": [
+
       ]
     },
     "25732": {
@@ -40401,6 +41027,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "1696",
@@ -40485,6 +41112,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "34031",
@@ -40532,6 +41160,7 @@
         "19750"
       ],
       "in": [
+
       ]
     },
     "19750": {
@@ -40591,11 +41220,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 319,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21435"
@@ -40617,6 +41248,7 @@
         "24083"
       ],
       "in": [
+
       ]
     },
     "49147": {
@@ -40716,11 +41348,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 320,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49416"
@@ -40738,6 +41372,7 @@
       "orbit": 6,
       "orbitIndex": 50,
       "out": [
+
       ],
       "in": [
         "4397",
@@ -40760,6 +41395,7 @@
         "57264"
       ],
       "in": [
+
       ]
     },
     "39211": {
@@ -40773,6 +41409,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "48513",
@@ -40906,11 +41543,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 323,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "37403"
@@ -41009,11 +41648,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 324,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7918"
@@ -41252,6 +41893,7 @@
       "orbit": 4,
       "orbitIndex": 29,
       "out": [
+
       ],
       "in": [
         "19595"
@@ -41275,6 +41917,7 @@
       "orbit": 4,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "6052"
@@ -41314,6 +41957,7 @@
       "orbit": 4,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "47873"
@@ -41400,6 +42044,7 @@
       "orbit": 4,
       "orbitIndex": 23,
       "out": [
+
       ],
       "in": [
         "12738"
@@ -41425,6 +42070,7 @@
       "orbit": 4,
       "orbitIndex": 17,
       "out": [
+
       ],
       "in": [
         "58998"
@@ -41450,6 +42096,7 @@
       "orbit": 4,
       "orbitIndex": 20,
       "out": [
+
       ],
       "in": [
         "12475"
@@ -41525,6 +42172,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "56461",
@@ -41550,6 +42198,7 @@
         "47873"
       ],
       "in": [
+
       ]
     },
     "16023": {
@@ -41559,6 +42208,7 @@
       "ascendancyName": "Elementalist",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 326,
       "orbit": 0,
@@ -41611,6 +42261,7 @@
       "orbit": 4,
       "orbitIndex": 6,
       "out": [
+
       ],
       "in": [
         "61478"
@@ -41632,6 +42283,7 @@
       "orbit": 3,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "25111"
@@ -41658,6 +42310,7 @@
       "orbit": 4,
       "orbitIndex": 37,
       "out": [
+
       ],
       "in": [
         "43725"
@@ -41700,6 +42353,7 @@
       "orbit": 3,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "41433"
@@ -41819,6 +42473,7 @@
       "orbit": 4,
       "orbitIndex": 29,
       "out": [
+
       ],
       "in": [
         "35185"
@@ -41878,6 +42533,7 @@
       "ascendancyName": "Champion",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 327,
       "orbit": 0,
@@ -41947,6 +42603,7 @@
         "57362"
       ],
       "in": [
+
       ]
     },
     "55647": {
@@ -42036,11 +42693,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 328,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "11645",
@@ -42087,6 +42746,7 @@
         "11645"
       ],
       "in": [
+
       ]
     },
     "11645": {
@@ -42156,6 +42816,7 @@
         "61419"
       ],
       "in": [
+
       ]
     },
     "53279": {
@@ -42182,6 +42843,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 329,
       "orbit": 2,
@@ -42244,6 +42906,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "20528",
@@ -42273,8 +42936,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "4367": {
@@ -42400,6 +43065,7 @@
         "21075"
       ],
       "in": [
+
       ]
     },
     "1957": {
@@ -42474,6 +43140,7 @@
         "16790"
       ],
       "in": [
+
       ]
     },
     "27929": {
@@ -42525,6 +43192,7 @@
         "57226"
       ],
       "in": [
+
       ]
     },
     "6949": {
@@ -42575,6 +43243,7 @@
       "orbit": 5,
       "orbitIndex": 21,
       "out": [
+
       ],
       "in": [
         "27929",
@@ -42635,6 +43304,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "2292",
@@ -42666,6 +43336,7 @@
         "19635"
       ],
       "in": [
+
       ]
     },
     "40637": {
@@ -42680,6 +43351,7 @@
       "orbit": 6,
       "orbitIndex": 21,
       "out": [
+
       ],
       "in": [
         "27929",
@@ -42929,6 +43601,7 @@
         "8135"
       ],
       "in": [
+
       ]
     },
     "11128": {
@@ -43021,6 +43694,7 @@
       "name": "위치",
       "icon": "Art/2DArt/SkillIcons/passives/blankInt.png",
       "stats": [
+
       ],
       "classStartIndex": 3,
       "group": 334,
@@ -43058,8 +43732,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "18302": {
@@ -43073,6 +43749,7 @@
       "orbit": 2,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "34009",
@@ -43090,6 +43767,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "48438",
@@ -43118,6 +43796,7 @@
         "18302"
       ],
       "in": [
+
       ]
     },
     "50360": {
@@ -43132,6 +43811,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "34009",
@@ -43154,6 +43834,7 @@
         "54776"
       ],
       "in": [
+
       ]
     },
     "54776": {
@@ -43207,6 +43888,7 @@
       "name": "듀얼리스트",
       "icon": "Art/2DArt/SkillIcons/passives/damagedualwield.png",
       "stats": [
+
       ],
       "classStartIndex": 4,
       "group": 337,
@@ -43274,6 +43956,7 @@
       "orbit": 1,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "51856",
@@ -43384,6 +44067,7 @@
       "orbit": 3,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "14211",
@@ -43419,6 +44103,7 @@
       "orbit": 3,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "13322",
@@ -43466,6 +44151,7 @@
         "18240"
       ],
       "in": [
+
       ]
     },
     "18240": {
@@ -43519,11 +44205,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 341,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "3452",
@@ -43573,6 +44261,7 @@
         "8643"
       ],
       "in": [
+
       ]
     },
     "8643": {
@@ -43604,6 +44293,7 @@
       "orbit": 1,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "8643",
@@ -43649,6 +44339,7 @@
         "17674"
       ],
       "in": [
+
       ]
     },
     "2151": {
@@ -43691,6 +44382,7 @@
         "33508"
       ],
       "in": [
+
       ]
     },
     "62103": {
@@ -43711,6 +44403,7 @@
         "60532"
       ],
       "in": [
+
       ]
     },
     "58833": {
@@ -43718,6 +44411,7 @@
       "name": "7",
       "icon": "Art/2DArt/SkillIcons/passives/tempdex.png",
       "stats": [
+
       ],
       "classStartIndex": 0,
       "group": 343,
@@ -43753,6 +44447,7 @@
         "63845"
       ],
       "in": [
+
       ]
     },
     "7903": {
@@ -43766,6 +44461,7 @@
       "orbit": 3,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "20310"
@@ -43846,6 +44542,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 344,
       "orbit": 0,
@@ -43920,6 +44617,7 @@
       "orbit": 2,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "43162",
@@ -44151,11 +44849,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 346,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "64882",
@@ -44193,6 +44893,7 @@
       "orbit": 3,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "18103",
@@ -44222,6 +44923,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 347,
       "orbit": 0,
@@ -44254,6 +44956,7 @@
         "11859"
       ],
       "in": [
+
       ]
     },
     "23066": {
@@ -44542,11 +45245,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 351,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59766"
@@ -44619,6 +45324,7 @@
         "57949"
       ],
       "in": [
+
       ]
     },
     "38246": {
@@ -44661,6 +45367,7 @@
         "36107"
       ],
       "in": [
+
       ]
     },
     "63039": {
@@ -44789,11 +45496,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 352,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "38246",
@@ -44954,11 +45663,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 353,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "18174",
@@ -45113,11 +45824,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 355,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "14813"
@@ -45161,11 +45874,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 356,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "4207",
@@ -45344,6 +46059,7 @@
         "9009"
       ],
       "in": [
+
       ]
     },
     "60532": {
@@ -45357,6 +46073,7 @@
       "orbit": 1,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "62103",
@@ -45486,11 +46203,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 359,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "12878",
@@ -45513,6 +46232,7 @@
         "49343"
       ],
       "in": [
+
       ]
     },
     "3319": {
@@ -45559,6 +46279,7 @@
         "37795"
       ],
       "in": [
+
       ]
     },
     "44207": {
@@ -45673,6 +46394,7 @@
         "21634"
       ],
       "in": [
+
       ]
     },
     "21634": {
@@ -45755,11 +46477,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 362,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21634"
@@ -45961,6 +46685,7 @@
         "60170"
       ],
       "in": [
+
       ]
     },
     "60170": {
@@ -46019,11 +46744,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 363,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21460",
@@ -46083,11 +46810,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 364,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44788"
@@ -46108,6 +46837,7 @@
         "18033"
       ],
       "in": [
+
       ]
     },
     "2348": {
@@ -46361,11 +47091,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 366,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45067"
@@ -46389,6 +47121,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "46092"
@@ -46439,6 +47172,7 @@
       "orbit": 3,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "49807"
@@ -46459,6 +47193,7 @@
         "15144"
       ],
       "in": [
+
       ]
     },
     "28221": {
@@ -46502,6 +47237,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 368,
       "orbit": 0,
@@ -46642,11 +47378,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 370,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32059"
@@ -46668,6 +47406,7 @@
         "17201"
       ],
       "in": [
+
       ]
     },
     "58803": {
@@ -46732,6 +47471,7 @@
         "10829"
       ],
       "in": [
+
       ]
     },
     "19501": {
@@ -46746,6 +47486,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "4367",
@@ -46796,6 +47537,7 @@
         "46111"
       ],
       "in": [
+
       ]
     },
     "35730": {
@@ -46827,6 +47569,7 @@
       "orbit": 2,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "34591",
@@ -46910,11 +47653,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 373,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "34591"
@@ -46961,6 +47706,7 @@
       "orbit": 3,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "13753",
@@ -46982,6 +47728,7 @@
         "22315"
       ],
       "in": [
+
       ]
     },
     "7503": {
@@ -47159,11 +47906,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 376,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "19730"
@@ -47293,11 +48042,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 377,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "22972"
@@ -47336,6 +48087,7 @@
         "11551"
       ],
       "in": [
+
       ]
     },
     "22972": {
@@ -47400,6 +48152,7 @@
         "19501"
       ],
       "in": [
+
       ]
     },
     "19287": {
@@ -47509,11 +48262,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 380,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49379"
@@ -47681,11 +48436,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 383,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "42041"
@@ -47731,6 +48488,7 @@
         "32091"
       ],
       "in": [
+
       ]
     },
     "8348": {
@@ -47855,11 +48613,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 384,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "19506",
@@ -47960,6 +48720,7 @@
         "18033"
       ],
       "in": [
+
       ]
     },
     "65097": {
@@ -48036,11 +48797,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 385,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65097"
@@ -48113,11 +48876,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 386,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "21602"
@@ -48198,6 +48963,7 @@
         "21602"
       ],
       "in": [
+
       ]
     },
     "19711": {
@@ -48255,6 +49021,7 @@
         "34506"
       ],
       "in": [
+
       ]
     },
     "34506": {
@@ -48335,11 +49102,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 388,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "34506"
@@ -48427,6 +49196,7 @@
         "24721"
       ],
       "in": [
+
       ]
     },
     "24772": {
@@ -48444,6 +49214,7 @@
       "orbit": 2,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "58541",
@@ -48465,6 +49236,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "58541",
@@ -48559,11 +49331,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 390,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24721"
@@ -48587,6 +49361,7 @@
         "38176"
       ],
       "in": [
+
       ]
     },
     "50679": {
@@ -48608,6 +49383,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "29937"
@@ -48630,6 +49406,7 @@
         "14603"
       ],
       "in": [
+
       ]
     },
     "48719": {
@@ -48647,6 +49424,7 @@
       "orbit": 4,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "18309"
@@ -48668,6 +49446,7 @@
       "orbit": 4,
       "orbitIndex": 25,
       "out": [
+
       ],
       "in": [
         "18574"
@@ -48691,6 +49470,7 @@
       "orbit": 4,
       "orbitIndex": 28,
       "out": [
+
       ],
       "in": [
         "5415"
@@ -48778,6 +49558,7 @@
       "orbit": 4,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "23509"
@@ -48915,6 +49696,7 @@
       "orbit": 4,
       "orbitIndex": 22,
       "out": [
+
       ],
       "in": [
         "39818"
@@ -48935,6 +49717,7 @@
       "orbit": 4,
       "orbitIndex": 18,
       "out": [
+
       ],
       "in": [
         "55646"
@@ -48947,6 +49730,7 @@
       "ascendancyName": "Necromancer",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 393,
       "orbit": 0,
@@ -49041,6 +49825,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "48823",
@@ -49090,6 +49875,7 @@
         "41047"
       ],
       "in": [
+
       ]
     },
     "24552": {
@@ -49139,11 +49925,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 394,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "48823",
@@ -49169,8 +49957,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "11651": {
@@ -49189,6 +49979,7 @@
         "6580"
       ],
       "in": [
+
       ]
     },
     "27659": {
@@ -49229,6 +50020,7 @@
         "51786"
       ],
       "in": [
+
       ]
     },
     "61982": {
@@ -49309,11 +50101,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 399,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "61982"
@@ -49353,6 +50147,7 @@
         "27659"
       ],
       "in": [
+
       ]
     },
     "11784": {
@@ -49376,6 +50171,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "24481",
@@ -49430,6 +50226,7 @@
         }
       ],
       "stats": [
+
       ],
       "group": 400,
       "orbit": 0,
@@ -49438,6 +50235,7 @@
         "11784"
       ],
       "in": [
+
       ]
     },
     "4105": {
@@ -49480,6 +50278,7 @@
         "27659"
       ],
       "in": [
+
       ]
     },
     "56807": {
@@ -49512,6 +50311,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "56807",
@@ -49566,11 +50366,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 401,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15437",
@@ -49641,6 +50443,7 @@
         "21324"
       ],
       "in": [
+
       ]
     },
     "29937": {
@@ -49686,6 +50489,7 @@
         "35085"
       ],
       "in": [
+
       ]
     },
     "34579": {
@@ -49716,6 +50520,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "34579",
@@ -49772,11 +50577,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 403,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "30471"
@@ -49798,6 +50605,7 @@
         "11497"
       ],
       "in": [
+
       ]
     },
     "11497": {
@@ -49825,11 +50633,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 404,
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "11497"
@@ -49917,6 +50727,7 @@
       "orbit": 4,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "34215"
@@ -49963,6 +50774,7 @@
       "orbit": 4,
       "orbitIndex": 10,
       "out": [
+
       ],
       "in": [
         "20954"
@@ -50002,6 +50814,7 @@
       "orbit": 4,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "50845"
@@ -50123,6 +50936,7 @@
       "orbit": 4,
       "orbitIndex": 38,
       "out": [
+
       ],
       "in": [
         "15286"
@@ -50143,6 +50957,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "61393"
@@ -50179,6 +50994,7 @@
       "ascendancyName": "Slayer",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 406,
       "orbit": 0,
@@ -50247,11 +51063,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 407,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "26557"
@@ -50338,6 +51156,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "7641",
@@ -50384,6 +51203,7 @@
         "6338"
       ],
       "in": [
+
       ]
     },
     "6338": {
@@ -50437,11 +51257,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 408,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "62577"
@@ -50507,11 +51329,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 409,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63727"
@@ -50668,11 +51492,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 410,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "25409"
@@ -50694,6 +51520,7 @@
         "38176"
       ],
       "in": [
+
       ]
     },
     "30658": {
@@ -50814,11 +51641,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 411,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "29381"
@@ -50975,6 +51804,7 @@
         "54872"
       ],
       "in": [
+
       ]
     },
     "54872": {
@@ -51082,11 +51912,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 412,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "39530",
@@ -51153,11 +51985,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 413,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "29522"
@@ -51284,11 +52118,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 414,
       "orbit": 2,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "48778"
@@ -51333,6 +52169,7 @@
         "37671"
       ],
       "in": [
+
       ]
     },
     "5875": {
@@ -51406,11 +52243,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 416,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9788"
@@ -51596,11 +52435,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 417,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "36736"
@@ -51653,11 +52494,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 418,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7136"
@@ -51703,6 +52546,7 @@
         "17906"
       ],
       "in": [
+
       ]
     },
     "22488": {
@@ -51716,6 +52560,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "36877",
@@ -51754,6 +52599,7 @@
         "51786"
       ],
       "in": [
+
       ]
     },
     "47471": {
@@ -51826,11 +52672,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 419,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "47471"
@@ -51873,6 +52721,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "20010"
@@ -52019,11 +52868,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 423,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "33582"
@@ -52061,6 +52912,7 @@
         "27415"
       ],
       "in": [
+
       ]
     },
     "53652": {
@@ -52147,11 +52999,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 424,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53652"
@@ -52239,6 +53093,7 @@
         "13231"
       ],
       "in": [
+
       ]
     },
     "56855": {
@@ -52330,11 +53185,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 425,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "36687"
@@ -52355,6 +53212,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49651"
@@ -52503,11 +53361,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 427,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "58198"
@@ -52647,11 +53507,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 429,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "55114"
@@ -52736,6 +53598,7 @@
         "5408"
       ],
       "in": [
+
       ]
     },
     "49969": {
@@ -52824,11 +53687,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 431,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49969",
@@ -52873,6 +53738,7 @@
         "23471"
       ],
       "in": [
+
       ]
     },
     "4944": {
@@ -52989,6 +53855,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "37671",
@@ -53017,6 +53884,7 @@
         "25281"
       ],
       "in": [
+
       ]
     },
     "25281": {
@@ -53066,11 +53934,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 432,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "18865"
@@ -53092,6 +53962,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "37671"
@@ -53139,6 +54010,7 @@
         "51761"
       ],
       "in": [
+
       ]
     },
     "54268": {
@@ -53240,6 +54112,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "13807",
@@ -53262,6 +54135,7 @@
         "6363"
       ],
       "in": [
+
       ]
     },
     "51761": {
@@ -53323,11 +54197,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 435,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15085",
@@ -53360,6 +54236,7 @@
       "name": "6",
       "icon": "Art/2DArt/SkillIcons/passives/tempint.png",
       "stats": [
+
       ],
       "classStartIndex": 6,
       "group": 437,
@@ -53420,6 +54297,7 @@
       "name": "레인저",
       "icon": "Art/2DArt/SkillIcons/passives/blankDex.png",
       "stats": [
+
       ],
       "classStartIndex": 2,
       "group": 438,
@@ -53433,6 +54311,7 @@
         "56856"
       ],
       "in": [
+
       ]
     },
     "27709": {
@@ -53454,6 +54333,7 @@
         "22647"
       ],
       "in": [
+
       ]
     },
     "28887": {
@@ -53574,11 +54454,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 439,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "38849"
@@ -53705,11 +54587,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 440,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9567"
@@ -53770,11 +54654,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 441,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63207"
@@ -53839,6 +54725,7 @@
         "41635"
       ],
       "in": [
+
       ]
     },
     "22407": {
@@ -54083,11 +54970,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 442,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "52090"
@@ -54200,6 +55089,7 @@
         "23471"
       ],
       "in": [
+
       ]
     },
     "43787": {
@@ -54214,6 +55104,7 @@
       "orbit": 2,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "56589",
@@ -54236,6 +55127,7 @@
         "52230"
       ],
       "in": [
+
       ]
     },
     "52230": {
@@ -54314,11 +55206,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 447,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "52230"
@@ -54343,6 +55237,7 @@
         "36371"
       ],
       "in": [
+
       ]
     },
     "36371": {
@@ -54359,6 +55254,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "37175",
@@ -54383,6 +55279,7 @@
         "25439"
       ],
       "in": [
+
       ]
     },
     "25439": {
@@ -54487,11 +55384,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 448,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "25439"
@@ -54509,6 +55408,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "5408",
@@ -54571,6 +55471,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "23471",
@@ -54603,6 +55504,7 @@
         "59501"
       ],
       "in": [
+
       ]
     },
     "59501": {
@@ -54646,11 +55548,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 451,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "570"
@@ -54677,6 +55581,7 @@
         "23471"
       ],
       "in": [
+
       ]
     },
     "4036": {
@@ -54690,6 +55595,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "41635",
@@ -54763,11 +55669,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 453,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "47306"
@@ -54794,6 +55702,7 @@
         "9586"
       ],
       "in": [
+
       ]
     },
     "32345": {
@@ -54814,6 +55723,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32710"
@@ -54867,6 +55777,7 @@
         "53828"
       ],
       "in": [
+
       ]
     },
     "53828": {
@@ -54924,11 +55835,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 455,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "41476",
@@ -55314,11 +56227,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 456,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "62849",
@@ -55451,6 +56366,7 @@
         "40743"
       ],
       "in": [
+
       ]
     },
     "26471": {
@@ -55578,6 +56494,7 @@
         }
       ],
       "stats": [
+
       ],
       "group": 460,
       "orbit": 0,
@@ -55586,6 +56503,7 @@
         "40743"
       ],
       "in": [
+
       ]
     },
     "51801": {
@@ -55700,11 +56618,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 461,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53573"
@@ -55729,6 +56649,7 @@
         "52095"
       ],
       "in": [
+
       ]
     },
     "52095": {
@@ -55759,6 +56680,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "57746",
@@ -55865,11 +56787,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 462,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "10511"
@@ -55909,6 +56833,7 @@
         "45272"
       ],
       "in": [
+
       ]
     },
     "45272": {
@@ -55924,6 +56849,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "53992",
@@ -56058,11 +56984,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 464,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15344"
@@ -56111,11 +57039,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 465,
       "orbit": 2,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "39861"
@@ -56139,6 +57069,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32710"
@@ -56198,11 +57129,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 467,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65093"
@@ -56276,6 +57209,7 @@
         "10204"
       ],
       "in": [
+
       ]
     },
     "53738": {
@@ -56328,11 +57262,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 468,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44102"
@@ -56480,6 +57416,7 @@
         "6538"
       ],
       "in": [
+
       ]
     },
     "6799": {
@@ -56556,11 +57493,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 471,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6799"
@@ -56605,8 +57544,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "63639": {
@@ -57085,11 +58026,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 477,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "41595"
@@ -57254,6 +58197,7 @@
         "44988"
       ],
       "in": [
+
       ]
     },
     "44988": {
@@ -57334,11 +58278,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 479,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44988"
@@ -57359,6 +58305,7 @@
         "49978"
       ],
       "in": [
+
       ]
     },
     "23439": {
@@ -57444,11 +58391,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 480,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9015"
@@ -57470,6 +58419,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "33310"
@@ -57546,6 +58496,7 @@
         "34625"
       ],
       "in": [
+
       ]
     },
     "47743": {
@@ -57622,11 +58573,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 482,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "47743"
@@ -57689,11 +58642,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 483,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45945"
@@ -57800,6 +58755,7 @@
         "49978"
       ],
       "in": [
+
       ]
     },
     "37147": {
@@ -57808,6 +58764,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 486,
       "orbit": 1,
@@ -57816,6 +58773,7 @@
         "3109"
       ],
       "in": [
+
       ]
     },
     "63754": {
@@ -57824,6 +58782,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 487,
       "orbit": 1,
@@ -57832,6 +58791,7 @@
         "9797"
       ],
       "in": [
+
       ]
     },
     "34678": {
@@ -57849,6 +58809,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "3469",
@@ -57875,6 +58836,7 @@
         "34678"
       ],
       "in": [
+
       ]
     },
     "58271": {
@@ -57945,11 +58907,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 488,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "19069"
@@ -57980,6 +58944,7 @@
         "3042"
       ],
       "in": [
+
       ]
     },
     "53759": {
@@ -58000,8 +58965,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "49605": {
@@ -58108,6 +59075,7 @@
         "17411"
       ],
       "in": [
+
       ]
     },
     "16743": {
@@ -58199,11 +59167,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 491,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "44824"
@@ -58284,11 +59254,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 493,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6233"
@@ -58377,6 +59349,7 @@
         "7023"
       ],
       "in": [
+
       ]
     },
     "7023": {
@@ -58435,11 +59408,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 494,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "57199"
@@ -58473,6 +59448,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "61327",
@@ -58565,6 +59541,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63795",
@@ -58629,6 +59606,7 @@
         "64709"
       ],
       "in": [
+
       ]
     },
     "51440": {
@@ -58710,11 +59688,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 500,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51440"
@@ -58790,6 +59770,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 504,
       "orbit": 2,
@@ -58813,11 +59794,13 @@
         "parent": "46393"
       },
       "stats": [
+
       ],
       "group": 504,
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "37147",
@@ -58840,6 +59823,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "3469"
@@ -58864,6 +59848,7 @@
       "orbit": 2,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "32117",
@@ -58913,6 +59898,7 @@
         "50338"
       ],
       "in": [
+
       ]
     },
     "9373": {
@@ -58927,6 +59913,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "54142",
@@ -58967,6 +59954,7 @@
         "50338"
       ],
       "in": [
+
       ]
     },
     "40132": {
@@ -59014,11 +60002,13 @@
         "proxy": "25134"
       },
       "stats": [
+
       ],
       "group": 507,
       "orbit": 1,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "40132",
@@ -59040,6 +60030,7 @@
         "52157"
       ],
       "in": [
+
       ]
     },
     "59009": {
@@ -59070,11 +60061,13 @@
         "proxy": "18756"
       },
       "stats": [
+
       ],
       "group": 510,
       "orbit": 1,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "21033",
@@ -59121,11 +60114,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 511,
       "orbit": 2,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "9797",
@@ -59144,6 +60139,7 @@
         "parent": "64583"
       },
       "stats": [
+
       ],
       "group": 511,
       "orbit": 2,
@@ -59346,11 +60342,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 515,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63453"
@@ -59371,6 +60369,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "5237"
@@ -59425,6 +60424,7 @@
         "9355"
       ],
       "in": [
+
       ]
     },
     "3863": {
@@ -59465,6 +60465,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "32227",
@@ -59527,11 +60528,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 517,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32227"
@@ -59553,6 +60556,7 @@
         "6538"
       ],
       "in": [
+
       ]
     },
     "42133": {
@@ -59669,11 +60673,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 518,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "50690"
@@ -59762,11 +60768,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 519,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "62094"
@@ -59790,6 +60798,7 @@
         "41819"
       ],
       "in": [
+
       ]
     },
     "41819": {
@@ -59827,6 +60836,7 @@
         "25058"
       ],
       "in": [
+
       ]
     },
     "9877": {
@@ -59880,6 +60890,7 @@
         "61306"
       ],
       "in": [
+
       ]
     },
     "41137": {
@@ -59961,11 +60972,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 522,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "41137"
@@ -59983,6 +60996,7 @@
         "parent": "46882"
       },
       "stats": [
+
       ],
       "group": 523,
       "orbit": 3,
@@ -60007,6 +61021,7 @@
         "parent": "46882"
       },
       "stats": [
+
       ],
       "group": 523,
       "orbit": 3,
@@ -60031,6 +61046,7 @@
         "parent": "46882"
       },
       "stats": [
+
       ],
       "group": 523,
       "orbit": 3,
@@ -60041,6 +61057,7 @@
         "25134"
       ],
       "in": [
+
       ]
     },
     "25134": {
@@ -60049,6 +61066,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 523,
       "orbit": 3,
@@ -60080,6 +61098,7 @@
         "20546"
       ],
       "in": [
+
       ]
     },
     "28758": {
@@ -60180,11 +61199,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 524,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "56276"
@@ -60242,6 +61263,7 @@
         "14122"
       ],
       "in": [
+
       ]
     },
     "52407": {
@@ -60331,11 +61353,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 525,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "58168"
@@ -60388,11 +61412,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 526,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63921"
@@ -60476,6 +61502,7 @@
         "4502"
       ],
       "in": [
+
       ]
     },
     "6785": {
@@ -60585,11 +61612,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 527,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "42649"
@@ -60629,6 +61658,7 @@
         "parent": "21984"
       },
       "stats": [
+
       ],
       "group": 529,
       "orbit": 3,
@@ -60653,6 +61683,7 @@
         "parent": "21984"
       },
       "stats": [
+
       ],
       "group": 529,
       "orbit": 3,
@@ -60677,6 +61708,7 @@
         "parent": "21984"
       },
       "stats": [
+
       ],
       "group": 529,
       "orbit": 3,
@@ -60695,6 +61727,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 529,
       "orbit": 3,
@@ -60784,11 +61817,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 531,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "16236"
@@ -60941,6 +61976,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "50338",
@@ -60972,6 +62008,7 @@
         "41380"
       ],
       "in": [
+
       ]
     },
     "27733": {
@@ -61027,11 +62064,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 533,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "46904"
@@ -61201,11 +62240,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 534,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59866"
@@ -61323,8 +62364,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "8938": {
@@ -61368,6 +62411,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "3187",
@@ -61414,6 +62458,7 @@
         "37504"
       ],
       "in": [
+
       ]
     },
     "30894": {
@@ -61448,6 +62493,7 @@
         "37504"
       ],
       "in": [
+
       ]
     },
     "15842": {
@@ -61469,6 +62515,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "30894",
@@ -61481,6 +62528,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 538,
       "orbit": 2,
@@ -61490,6 +62538,7 @@
         "12161"
       ],
       "in": [
+
       ]
     },
     "12161": {
@@ -61504,6 +62553,7 @@
         "parent": "40400"
       },
       "stats": [
+
       ],
       "group": 538,
       "orbit": 2,
@@ -61568,6 +62618,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "5622",
@@ -61589,6 +62640,7 @@
         "25209"
       ],
       "in": [
+
       ]
     },
     "8872": {
@@ -61650,11 +62702,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 540,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6"
@@ -61681,6 +62735,7 @@
         "5622"
       ],
       "in": [
+
       ]
     },
     "55571": {
@@ -61721,6 +62776,7 @@
         "55491"
       ],
       "in": [
+
       ]
     },
     "55491": {
@@ -61773,11 +62829,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 541,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "12143"
@@ -61812,6 +62870,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49408",
@@ -61852,6 +62911,7 @@
         "59252"
       ],
       "in": [
+
       ]
     },
     "4219": {
@@ -61924,11 +62984,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 542,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "48698"
@@ -61997,6 +63059,7 @@
         "8938"
       ],
       "in": [
+
       ]
     },
     "53114": {
@@ -62122,11 +63185,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 543,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53114"
@@ -62180,6 +63245,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 545,
       "orbit": 2,
@@ -62203,6 +63269,7 @@
         "parent": "61288"
       },
       "stats": [
+
       ],
       "group": 545,
       "orbit": 2,
@@ -62702,11 +63769,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 548,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "30974"
@@ -62762,11 +63831,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 549,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45608"
@@ -62872,6 +63943,7 @@
         "24067"
       ],
       "in": [
+
       ]
     },
     "49515": {
@@ -62889,6 +63961,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "4502",
@@ -62987,11 +64060,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 550,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24067"
@@ -63003,11 +64078,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 551,
       "orbit": 1,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "12161"
@@ -63064,6 +64141,7 @@
         "3656"
       ],
       "in": [
+
       ]
     },
     "56648": {
@@ -63142,11 +64220,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 552,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "56648"
@@ -63386,11 +64466,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 553,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "22535"
@@ -63450,6 +64532,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 555,
       "orbit": 2,
@@ -63473,6 +64556,7 @@
         "parent": "22994"
       },
       "stats": [
+
       ],
       "group": 555,
       "orbit": 2,
@@ -63490,6 +64574,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 556,
       "orbit": 1,
@@ -63498,6 +64583,7 @@
         "41876"
       ],
       "in": [
+
       ]
     },
     "45788": {
@@ -63532,6 +64618,7 @@
         "59252"
       ],
       "in": [
+
       ]
     },
     "12518": {
@@ -63585,11 +64672,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 557,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "28503"
@@ -63667,6 +64756,7 @@
       "orbit": 2,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "14804",
@@ -63766,11 +64856,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 558,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "41119"
@@ -63826,11 +64918,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 559,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "8458",
@@ -63957,6 +65051,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59606"
@@ -63980,6 +65075,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59606"
@@ -64007,6 +65103,7 @@
         "39718"
       ],
       "in": [
+
       ]
     },
     "24452": {
@@ -64015,6 +65112,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 563,
       "orbit": 2,
@@ -64038,6 +65136,7 @@
         "parent": "13170"
       },
       "stats": [
+
       ],
       "group": 563,
       "orbit": 2,
@@ -64107,6 +65206,7 @@
       "orbit": 2,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "1201",
@@ -64271,11 +65371,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 566,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "529"
@@ -64361,11 +65463,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 567,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "58032"
@@ -64390,6 +65494,7 @@
         "60440"
       ],
       "in": [
+
       ]
     },
     "45810": {
@@ -64488,6 +65593,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "60440"
@@ -64634,6 +65740,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "31315",
@@ -64681,6 +65788,7 @@
         "56814"
       ],
       "in": [
+
       ]
     },
     "22266": {
@@ -64725,6 +65833,7 @@
         "33783"
       ],
       "in": [
+
       ]
     },
     "31508": {
@@ -64815,6 +65924,7 @@
       "orbit": 2,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "9786",
@@ -64923,11 +66033,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 579,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "3309"
@@ -64955,6 +66067,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "47362",
@@ -64967,11 +66080,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 581,
       "orbit": 1,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "61305"
@@ -65100,11 +66215,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 582,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65053"
@@ -65243,6 +66360,7 @@
         "47294"
       ],
       "in": [
+
       ]
     },
     "59482": {
@@ -65304,11 +66422,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 585,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9864"
@@ -65393,6 +66513,7 @@
         "4502"
       ],
       "in": [
+
       ]
     },
     "857": {
@@ -65446,11 +66567,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 586,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "18769"
@@ -65503,11 +66626,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 587,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59556"
@@ -65543,6 +66668,7 @@
       "orbit": 2,
       "orbitIndex": 6,
       "out": [
+
       ],
       "in": [
         "27962",
@@ -65571,6 +66697,7 @@
         "37616"
       ],
       "in": [
+
       ]
     },
     "27819": {
@@ -65579,6 +66706,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 588,
       "orbit": 1,
@@ -65587,6 +66715,7 @@
         "59585"
       ],
       "in": [
+
       ]
     },
     "44540": {
@@ -65636,11 +66765,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 589,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "27190"
@@ -65720,6 +66851,7 @@
         "46408"
       ],
       "in": [
+
       ]
     },
     "1767": {
@@ -65788,11 +66920,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 592,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "47065"
@@ -65859,6 +66993,7 @@
         "20675"
       ],
       "in": [
+
       ]
     },
     "54868": {
@@ -65877,6 +67012,7 @@
         "45360"
       ],
       "in": [
+
       ]
     },
     "39938": {
@@ -66011,11 +67147,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 593,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9535"
@@ -66057,6 +67195,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "59606",
@@ -66078,6 +67217,7 @@
         "18707"
       ],
       "in": [
+
       ]
     },
     "19725": {
@@ -66137,11 +67277,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 594,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "18707"
@@ -66194,11 +67336,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 595,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "4481"
@@ -66225,6 +67369,7 @@
         "34317"
       ],
       "in": [
+
       ]
     },
     "56646": {
@@ -66273,6 +67418,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "41866",
@@ -66316,6 +67462,7 @@
         "22266"
       ],
       "in": [
+
       ]
     },
     "43491": {
@@ -66432,11 +67579,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 598,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "41420"
@@ -66508,6 +67657,7 @@
         "44179"
       ],
       "in": [
+
       ]
     },
     "44179": {
@@ -66566,11 +67716,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 599,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "17171",
@@ -66650,6 +67802,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "56814",
@@ -66675,6 +67828,7 @@
         "17608"
       ],
       "in": [
+
       ]
     },
     "11850": {
@@ -66766,11 +67920,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 600,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "17608"
@@ -66905,11 +68061,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 601,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "53013"
@@ -66962,11 +68120,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 602,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "36281"
@@ -67012,6 +68172,7 @@
       "orbit": 2,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "50150",
@@ -67034,6 +68195,7 @@
         "32555"
       ],
       "in": [
+
       ]
     },
     "30969": {
@@ -67223,11 +68385,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 605,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "61981"
@@ -67321,6 +68485,7 @@
         "53456"
       ],
       "in": [
+
       ]
     },
     "54452": {
@@ -67458,11 +68623,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 606,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15852"
@@ -67484,6 +68651,7 @@
         "60735"
       ],
       "in": [
+
       ]
     },
     "38348": {
@@ -67502,6 +68670,7 @@
         "63843"
       ],
       "in": [
+
       ]
     },
     "16079": {
@@ -67536,6 +68705,7 @@
         "63843"
       ],
       "in": [
+
       ]
     },
     "60735": {
@@ -67544,11 +68714,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 607,
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "14292",
@@ -67701,11 +68873,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 608,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "24133"
@@ -67733,6 +68907,7 @@
         "44316"
       ],
       "in": [
+
       ]
     },
     "36221": {
@@ -67817,11 +68992,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 609,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "19858"
@@ -67906,6 +69083,7 @@
         "32176"
       ],
       "in": [
+
       ]
     },
     "1215": {
@@ -67960,11 +69138,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 611,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32176"
@@ -68062,11 +69242,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 612,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "8001"
@@ -68099,6 +69281,7 @@
         "7488"
       ],
       "in": [
+
       ]
     },
     "54922": {
@@ -68116,6 +69299,7 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32555"
@@ -68205,11 +69389,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 614,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "42804"
@@ -68238,6 +69424,7 @@
         "10495"
       ],
       "in": [
+
       ]
     },
     "53213": {
@@ -68303,6 +69490,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isJewelSocket": true,
       "stats": [
+
       ],
       "group": 615,
       "orbit": 0,
@@ -68335,6 +69523,7 @@
         "53213"
       ],
       "in": [
+
       ]
     },
     "25411": {
@@ -68375,6 +69564,7 @@
         "53213"
       ],
       "in": [
+
       ]
     },
     "40362": {
@@ -68483,11 +69673,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 616,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "27788"
@@ -68515,6 +69707,7 @@
         "37532"
       ],
       "in": [
+
       ]
     },
     "5022": {
@@ -68587,11 +69780,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 617,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "6615"
@@ -68608,6 +69803,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "6615",
@@ -68661,11 +69857,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 618,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "54713"
@@ -68807,6 +70005,7 @@
         "23886"
       ],
       "in": [
+
       ]
     },
     "23886": {
@@ -68903,11 +70102,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 619,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "7263"
@@ -69065,11 +70266,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 620,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "63251"
@@ -69254,11 +70457,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 623,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "2959"
@@ -69395,11 +70600,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 624,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "25738"
@@ -69465,6 +70672,7 @@
         "1461"
       ],
       "in": [
+
       ]
     },
     "20736": {
@@ -69521,11 +70729,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 625,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "31585"
@@ -69542,6 +70752,7 @@
       "orbit": 2,
       "orbitIndex": 3,
       "out": [
+
       ],
       "in": [
         "59220",
@@ -69563,6 +70774,7 @@
         "20807"
       ],
       "in": [
+
       ]
     },
     "65502": {
@@ -69586,6 +70798,7 @@
         "31039"
       ],
       "in": [
+
       ]
     },
     "31039": {
@@ -69638,11 +70851,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 626,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "65502"
@@ -69664,6 +70879,7 @@
         "20807"
       ],
       "in": [
+
       ]
     },
     "42104": {
@@ -69678,6 +70894,7 @@
       "orbit": 2,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "57080",
@@ -69707,6 +70924,7 @@
         "58302"
       ],
       "in": [
+
       ]
     },
     "58302": {
@@ -69760,11 +70978,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 627,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "49621"
@@ -69904,11 +71124,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 628,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "13375"
@@ -69934,6 +71156,7 @@
         "49900"
       ],
       "in": [
+
       ]
     },
     "3424": {
@@ -70042,11 +71265,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 629,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "1405"
@@ -70071,6 +71296,7 @@
         "18182"
       ],
       "in": [
+
       ]
     },
     "17749": {
@@ -70188,11 +71414,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 631,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "52789"
@@ -70310,11 +71538,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 632,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "47484"
@@ -70338,6 +71568,7 @@
         "53456"
       ],
       "in": [
+
       ]
     },
     "18182": {
@@ -70549,11 +71780,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 641,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15290"
@@ -70648,6 +71881,7 @@
         "4750"
       ],
       "in": [
+
       ]
     },
     "15290": {
@@ -70726,11 +71960,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 642,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "9055",
@@ -70957,6 +72193,7 @@
         "1461"
       ],
       "in": [
+
       ]
     },
     "54307": {
@@ -70977,6 +72214,7 @@
         "36287"
       ],
       "in": [
+
       ]
     },
     "32763": {
@@ -70990,6 +72228,7 @@
         "proxy": "48132"
       },
       "stats": [
+
       ],
       "group": 645,
       "orbit": 1,
@@ -71029,6 +72268,7 @@
       "orbit": 1,
       "orbitIndex": 5,
       "out": [
+
       ],
       "in": [
         "1461",
@@ -71143,11 +72383,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 646,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "32681"
@@ -71217,6 +72459,7 @@
         "22261"
       ],
       "in": [
+
       ]
     },
     "38864": {
@@ -71417,11 +72660,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 647,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "8920",
@@ -71616,6 +72861,7 @@
         "19050"
       ],
       "in": [
+
       ]
     },
     "19050": {
@@ -71669,11 +72915,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 648,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "15614",
@@ -71752,11 +73000,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 649,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "31359"
@@ -71798,6 +73048,7 @@
         "49900"
       ],
       "in": [
+
       ]
     },
     "31359": {
@@ -71890,11 +73141,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 650,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "55380",
@@ -72068,6 +73321,7 @@
       "orbit": 2,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "30319",
@@ -72098,6 +73352,7 @@
         "54974"
       ],
       "in": [
+
       ]
     },
     "39665": {
@@ -72134,6 +73389,7 @@
         "20807"
       ],
       "in": [
+
       ]
     },
     "32514": {
@@ -72152,6 +73408,7 @@
         "49459"
       ],
       "in": [
+
       ]
     },
     "55750": {
@@ -72166,6 +73423,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "38149",
@@ -72183,6 +73441,7 @@
       "orbit": 3,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "39665",
@@ -72245,6 +73504,7 @@
         "6427"
       ],
       "in": [
+
       ]
     },
     "49459": {
@@ -72317,11 +73577,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 651,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "51881",
@@ -72354,6 +73616,7 @@
         "31291"
       ],
       "in": [
+
       ]
     },
     "31291": {
@@ -72410,11 +73673,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 652,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59151",
@@ -72500,6 +73765,7 @@
         "31291"
       ],
       "in": [
+
       ]
     },
     "54354": {
@@ -72516,6 +73782,7 @@
       "orbit": 3,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "12412",
@@ -72556,6 +73823,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59151",
@@ -72581,6 +73849,7 @@
         "12720"
       ],
       "in": [
+
       ]
     },
     "45329": {
@@ -72604,6 +73873,7 @@
         "5826"
       ],
       "in": [
+
       ]
     },
     "7069": {
@@ -72680,11 +73950,13 @@
         }
       ],
       "stats": [
+
       ],
       "group": 653,
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "45329",
@@ -72784,6 +74056,7 @@
         "5826"
       ],
       "in": [
+
       ]
     },
     "51953": {
@@ -72838,8 +74111,10 @@
       "orbit": 0,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
+
       ]
     },
     "6910": {
@@ -72854,6 +74129,7 @@
         "parent": "32763"
       },
       "stats": [
+
       ],
       "group": 655,
       "orbit": 3,
@@ -72878,6 +74154,7 @@
         "parent": "32763"
       },
       "stats": [
+
       ],
       "group": 655,
       "orbit": 3,
@@ -72902,6 +74179,7 @@
         "parent": "32763"
       },
       "stats": [
+
       ],
       "group": 655,
       "orbit": 3,
@@ -72920,6 +74198,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 655,
       "orbit": 3,
@@ -72938,11 +74217,13 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 656,
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "6910",
@@ -72961,6 +74242,7 @@
         "parent": "6910"
       },
       "stats": [
+
       ],
       "group": 656,
       "orbit": 2,
@@ -72978,6 +74260,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 657,
       "orbit": 2,
@@ -73001,6 +74284,7 @@
         "parent": "33753"
       },
       "stats": [
+
       ],
       "group": 657,
       "orbit": 2,
@@ -73018,6 +74302,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 658,
       "orbit": 1,
@@ -73026,6 +74311,7 @@
         "18436"
       ],
       "in": [
+
       ]
     },
     "56439": {
@@ -73034,6 +74320,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 659,
       "orbit": 1,
@@ -73042,6 +74329,7 @@
         "22748"
       ],
       "in": [
+
       ]
     },
     "33833": {
@@ -73050,6 +74338,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 660,
       "orbit": 2,
@@ -73073,6 +74362,7 @@
         "parent": "49684"
       },
       "stats": [
+
       ],
       "group": 660,
       "orbit": 2,
@@ -73090,6 +74380,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png",
       "isProxy": true,
       "stats": [
+
       ],
       "group": 661,
       "orbit": 1,
@@ -73098,6 +74389,7 @@
         "11150"
       ],
       "in": [
+
       ]
     },
     "12850": {
@@ -73136,6 +74428,7 @@
         "23024"
       ],
       "in": [
+
       ]
     },
     "33954": {
@@ -73222,6 +74515,7 @@
       "orbit": 4,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "43215"
@@ -73281,6 +74575,7 @@
       "orbit": 4,
       "orbitIndex": 20,
       "out": [
+
       ],
       "in": [
         "55686"
@@ -73326,6 +74621,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "9014"
@@ -73365,6 +74661,7 @@
       "orbit": 4,
       "orbitIndex": 27,
       "out": [
+
       ],
       "in": [
         "6064"
@@ -73383,6 +74680,7 @@
       "orbit": 4,
       "orbitIndex": 33,
       "out": [
+
       ],
       "in": [
         "19598",
@@ -73396,6 +74694,7 @@
       "ascendancyName": "Assassin",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 662,
       "orbit": 0,
@@ -73446,6 +74745,7 @@
       "orbit": 3,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "59800"
@@ -73487,6 +74787,7 @@
       "orbit": 3,
       "orbitIndex": 12,
       "out": [
+
       ],
       "in": [
         "32662"
@@ -73505,6 +74806,7 @@
       "orbit": 2,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "1697",
@@ -73528,6 +74830,7 @@
         "20480"
       ],
       "in": [
+
       ]
     },
     "51101": {
@@ -73562,6 +74865,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "51101",
@@ -73585,6 +74889,7 @@
         "36242"
       ],
       "in": [
+
       ]
     },
     "32640": {
@@ -73600,6 +74905,7 @@
       "orbit": 3,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "65296",
@@ -73642,6 +74948,7 @@
         "61805"
       ],
       "in": [
+
       ]
     },
     "61805": {
@@ -73661,6 +74968,7 @@
       "orbit": 4,
       "orbitIndex": 2,
       "out": [
+
       ],
       "in": [
         "40631"
@@ -73692,6 +75000,7 @@
       "ascendancyName": "Pathfinder",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 663,
       "orbit": 0,
@@ -73725,6 +75034,7 @@
       "orbit": 4,
       "orbitIndex": 20,
       "out": [
+
       ],
       "in": [
         "2336"
@@ -73744,6 +75054,7 @@
       "orbit": 3,
       "orbitIndex": 11,
       "out": [
+
       ],
       "in": [
         "32947",
@@ -73768,6 +75079,7 @@
       "orbit": 4,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "58454"
@@ -73807,6 +75119,7 @@
       "orbit": 4,
       "orbitIndex": 23,
       "out": [
+
       ],
       "in": [
         "35598"
@@ -73869,6 +75182,7 @@
         "37191"
       ],
       "in": [
+
       ]
     },
     "55867": {
@@ -73887,6 +75201,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "13219"
@@ -73928,6 +75243,7 @@
       "orbit": 2,
       "orbitIndex": 15,
       "out": [
+
       ],
       "in": [
         "63908"
@@ -74001,6 +75317,7 @@
       "ascendancyName": "Trickster",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 664,
       "orbit": 0,
@@ -74055,6 +75372,7 @@
       "orbit": 4,
       "orbitIndex": 1,
       "out": [
+
       ],
       "in": [
         "869"
@@ -74096,6 +75414,7 @@
       "orbit": 4,
       "orbitIndex": 29,
       "out": [
+
       ],
       "in": [
         "25167",
@@ -74135,6 +75454,7 @@
       "orbit": 4,
       "orbitIndex": 38,
       "out": [
+
       ],
       "in": [
         "16212",
@@ -74174,6 +75494,7 @@
       "orbit": 3,
       "orbitIndex": 4,
       "out": [
+
       ],
       "in": [
         "62067"
@@ -74220,6 +75541,7 @@
         "47366"
       ],
       "in": [
+
       ]
     },
     "41081": {
@@ -74261,6 +75583,7 @@
       "orbit": 2,
       "orbitIndex": 8,
       "out": [
+
       ],
       "in": [
         "64842"
@@ -74300,6 +75623,7 @@
       "orbit": 3,
       "orbitIndex": 13,
       "out": [
+
       ],
       "in": [
         "63135"
@@ -74338,6 +75662,7 @@
       "orbit": 4,
       "orbitIndex": 26,
       "out": [
+
       ],
       "in": [
         "41081"
@@ -74369,6 +75694,7 @@
       "ascendancyName": "Saboteur",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 665,
       "orbit": 0,
@@ -74465,6 +75791,7 @@
       "orbit": 4,
       "orbitIndex": 37,
       "out": [
+
       ],
       "in": [
         "15550"
@@ -74526,6 +75853,7 @@
       "orbit": 4,
       "orbitIndex": 30,
       "out": [
+
       ],
       "in": [
         "53421"
@@ -74547,6 +75875,7 @@
       "orbit": 2,
       "orbitIndex": 0,
       "out": [
+
       ],
       "in": [
         "4849",
@@ -74617,6 +75946,7 @@
         "12146"
       ],
       "in": [
+
       ]
     },
     "24432": {
@@ -74645,6 +75975,7 @@
       "ascendancyName": "Raider",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 666,
       "orbit": 0,
@@ -74693,6 +76024,7 @@
       "orbit": 2,
       "orbitIndex": 7,
       "out": [
+
       ],
       "in": [
         "55985"
@@ -74872,6 +76204,7 @@
       "orbit": 3,
       "orbitIndex": 9,
       "out": [
+
       ],
       "in": [
         "53086"
@@ -74891,6 +76224,7 @@
       "orbit": 4,
       "orbitIndex": 27,
       "out": [
+
       ],
       "in": [
         "22852"
@@ -74967,6 +76301,7 @@
       "orbit": 4,
       "orbitIndex": 38,
       "out": [
+
       ],
       "in": [
         "62136",
@@ -75023,6 +76358,7 @@
       "ascendancyName": "Deadeye",
       "isAscendancyStart": true,
       "stats": [
+
       ],
       "group": 667,
       "orbit": 0,
@@ -78686,6 +80022,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupSwordAndAxe.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "51642": {
@@ -78707,6 +80044,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupMaceAndStaff.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "31680": {
@@ -78728,6 +80066,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltDaggerClawDamageMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "18870": {
@@ -78745,6 +80084,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupBow.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "41204": {
@@ -78764,6 +80104,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupWand.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "58031": {
@@ -78780,6 +80121,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupTwoHands.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "16404": {
@@ -78796,6 +80138,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupDualWield.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "14303": {
@@ -78812,6 +80155,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupShield.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "747": {
@@ -78828,6 +80172,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltAttackDamageMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "21845": {
@@ -78844,6 +80189,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupCast.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "49465": {
@@ -78860,6 +80206,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryElementalDamage.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "37171": {
@@ -78876,6 +80223,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryPhysicalDamage.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "13146": {
@@ -78892,6 +80240,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupFire.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "49817": {
@@ -78908,6 +80257,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupLightning.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "41355": {
@@ -78924,6 +80274,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupCold.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "46248": {
@@ -78940,6 +80291,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryChaos.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "49331": {
@@ -78956,6 +80308,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupMinions.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "31549": {
@@ -78972,6 +80325,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltFireDamageMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "35020": {
@@ -78988,6 +80342,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltChaosDamageMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "14036": {
@@ -79004,6 +80359,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltBloodMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "39222": {
@@ -79020,6 +80376,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltColdDamageMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "32169": {
@@ -79036,6 +80393,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltDamageOverTimeMultiplierMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "61851": {
@@ -79055,6 +80413,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltNonDamagingAilmentsMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "6265": {
@@ -79071,6 +80430,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryAuras.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "18530": {
@@ -79087,6 +80447,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryCurse.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "17198": {
@@ -79103,6 +80464,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltDamageWithHeraldMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "3367": {
@@ -79119,6 +80481,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMinionDamageHeraldMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "3870": {
@@ -79135,6 +80498,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltWarcryMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "10695": {
@@ -79151,6 +80515,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupCrit.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "20492": {
@@ -79167,6 +80532,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryGroupMinions.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "44483": {
@@ -79183,6 +80549,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltAreaDamageMastery.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "1371": {
@@ -79199,6 +80566,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryProjectiles.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "48881": {
@@ -79216,6 +80584,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryTraps.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "46909": {
@@ -79232,6 +80601,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryTotem.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "21126": {
@@ -79251,6 +80621,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryBrand.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "10493": {
@@ -79267,6 +80638,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryChannelling.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "27625": {
@@ -79283,6 +80655,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryFlasks.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "51042": {
@@ -79300,6 +80673,7 @@
       "icon": "Art/2DArt/SkillIcons/passives/AltMasteryFlasks.png",
       "isMastery": true,
       "stats": [
+
       ]
     },
     "47192": {

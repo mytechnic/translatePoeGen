@@ -1,0 +1,63 @@
+Clear Oil|투명한 성유
+Sepia Oil|적갈빛 성유
+Amber Oil|호박빛 성유
+Verdant Oil|신록빛 성유
+Teal Oil|청록빛 성유
+Azure Oil|담청빛 성유
+Violet Oil|보랏빛 성유
+Crimson Oil|진홍빛 성유
+Black Oil|검은빛 성유
+Opalescent Oil|오팔빛 성유
+Silver Oil|은빛 성유
+Golden Oil|금빛 성유
+Awakened|각성한
+LEAGUE|리그
+POE ACCOUNT|POE 계정
+LAST FETCHED|마지막 갱신시간
+IMPORT CODE FOR PATH OF BUILDING|POB 코드
+Attributes|능력치
+Bandits|밴딧
+Pantheon Major|판테온 주요신
+Pantheon Minor|판테온 보조신
+Life|생명력
+Energy Shield|에너지 보호막
+Mana|마나
+Evasion Rating|회피 등급
+Resistances|저항
+Effective Health Pool|유효 생명력(EHP)
+CHARGES|충전
+Endurance charges|인내 충전
+Frenzy charges|격분 충전
+Power charges|권능 충전
+SKILL DPS ESTIMATION|스킬 DPS 평가
+CLUSTER JEWELS|스킬 군 주얼
+BASE JEWELS|기본 주얼
+ABYSS JEWELS|심연 주얼
+KEYSTONES|키스톤
+MASTERIES|특성
+Skills|스킬
+CHARACTER|캐릭터
+DEFENSIVE|방어
+Stats|통계
+Equipment|장비
+Vaal|바알
+Automation Support|자동화
+OTHER|기타
+Fire Resistance|화염 저항
+Cold Resistance|냉기 저항
+Lightning Resistance|번개 저항
+Chaos Resistance|카오스 저항
+Physical Max Hit|물리 최대 허용치
+Fire Max Hit|화염 최대 허용치
+Cold Max Hit|냉기 최대 허용치
+Lightning Max Hit|번개 최대 허용치
+Chaos Max Hit|카오스 최대 허용치
+Strength|힘
+Dexterity|민첩
+Intelligence|지능
+Damage Types|공격 유형
+Fire|화염
+Cold|냉기
+Lightning|번개
+Chaos|카오스
+Physical|물리
