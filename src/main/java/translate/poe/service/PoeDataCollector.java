@@ -28,10 +28,10 @@ public class PoeDataCollector {
     private final PoeDataRepository poeDataRepository;
 
     public void save() {
-        saveStatic();
-        saveItems();
-        saveStats();
-        savePassiveSkill();
+//        saveStatic();
+//        saveItems();
+//        saveStats();
+//        savePassiveSkill();
         saveCustom();
         build();
     }

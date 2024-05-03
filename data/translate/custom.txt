@@ -723,3 +723,32 @@ Cobalt|코발트
 Sunset|노을빛
 Bow|활
 Claw|클로
+Coffins|관
+Allflame Embers|올플레임 잉걸불
+Tattoos|문신
+Omens|징조
+Artifacts|유물
+Oils|성유
+EQUIPMENT & GEMS|장비 & 젬
+Unique Weapons|유니크 무기
+Unique Armours|유니크 방어구
+Unique Accessories|유니크 액세서리
+Unique Flasks|유니크 플라스크
+Unique Jewels|유니크 주얼
+Unique Relics|유니크 유물
+Skill Gems|스킬젬
+ATLAS|아틀라스
+Blight-ravaged Maps|역병에 유린당한 지도
+Scourged Maps|스컬지 지도
+Invitations|초대장
+Memories|기억
+CRAFTING|제작
+Base Types|기본 유형
+Fossils|화석
+Resonators|공명기
+Vials|시약
+Stash|창고
+Trade|거래
+Snapshots|스냅샷
+Strategies|전략
+Invest|투자
