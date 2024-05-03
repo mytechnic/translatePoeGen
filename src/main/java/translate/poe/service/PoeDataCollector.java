@@ -28,11 +28,11 @@ public class PoeDataCollector {
     private final PoeDataRepository poeDataRepository;
 
     public void save() {
-//        saveStatic();
-//        saveItems();
-//        saveStats();
-//        savePassiveSkill();
-//        saveCustom();
+        saveStatic();
+        saveItems();
+        saveStats();
+        savePassiveSkill();
+        saveCustom();
         build();
     }
 
@@ -332,6 +332,10 @@ public class PoeDataCollector {
 
         source = source.trim();
         text = text.trim();
+
+        if (source.equals(text)) {
+            return;
+        }
 
         int count = poeDataRepository.countBySource(source);
         if (count > 0) {

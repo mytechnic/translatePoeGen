@@ -94,15 +94,14 @@ public class PoeClient {
         Map<String, String> data = new LinkedHashMap<>();
         for (String str : sourceList) {
             String[] z = str.split(Pattern.quote("|"));
-            log.debug("{}", str);
 
             if (z.length != 2) {
                 continue;
             }
+
             String source = z[0].trim();
             String text = z[1].trim();
 
-            log.debug("{}: {}", source, text);
             if (source.isEmpty() || text.isEmpty()) {
                 continue;
             }
