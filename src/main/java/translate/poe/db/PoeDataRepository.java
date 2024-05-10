@@ -11,5 +11,5 @@ public interface PoeDataRepository extends CrudRepository<PoeDataEntity, Long> {
 
     int countBySource(String source);
 
-    List<PoeDataEntity> findByOrderBySourceLengthDesc();
+    List<PoeDataEntity> findByOrderBySourceLengthDescSourceAsc();
 }
