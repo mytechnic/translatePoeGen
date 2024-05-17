@@ -752,3 +752,23 @@ Trade|거래
 Snapshots|스냅샷
 Strategies|전략
 Invest|투자
+Quality|퀄리티
+Armour|방어도
+Energy Shield|에너지 보호막
+Item Level|아이템 레벨
+Lasts #초|#초 지속
+Currently has # Charge|현재 충전량 #
+Requirements Level|요구 사항 레벨
+Limited to|중복 사용 제한
+Radius|반경
+Abyss|심연
+Services|서비스
+Tree Preview트리 미리보기
+Speed|속도
+Hit Chance|명중 확률
+Crit Chance|치명타 확률
+Crit Multi|치명타 배율
+Bandit|밴딧
+Pantheon|판테온
+Soul of the Brine King|염수왕의 영혼
+Soul of Shakari|샤카리의 영혼

@@ -30,9 +30,9 @@ public class PoeDataCollector {
     public void save() {
 //        saveStatic();
 //        saveItems();
-        saveStats();
+//        saveStats();
 //        savePassiveSkill();
-//        saveCustom();
+        saveCustom();
         build();
     }
 
@@ -89,7 +89,7 @@ public class PoeDataCollector {
     private void build() {
         Dictionary dictionary = new Dictionary();
 
-        List<PoeDataEntity> poeDataEntities = poeDataRepository.findByOrderBySourceLengthDesc();
+        List<PoeDataEntity> poeDataEntities = poeDataRepository.findByOrderBySourceLengthDescSourceAsc();
         for (PoeDataEntity entity : poeDataEntities) {
             addDictionary(entity.getPatternType(), dictionary, entity.getSource(), entity.getText());
         }
