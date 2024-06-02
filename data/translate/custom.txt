@@ -772,3 +772,59 @@ Bandit|밴딧
 Pantheon|판테온
 Soul of the Brine King|염수왕의 영혼
 Soul of Shakari|샤카리의 영혼
+Base|기본
+Sold Listings|판매된 목록
+Exact Price Listings|정확한 가격 목록
+Order Type|거래 유형
+WTB (Search for Sellers)|판매자
+WTS (Search for Buyers)|구매자
+Item Types|아이템 유형
+elixir|비약
+incense|인장
+boss materials|보스 소환 재료
+summon sets|소환 세트
+gem|젬
+Unique Items|고유 아이템
+season softcore|시즌 소프트 코어
+season hardcore|시즌 하드 코어
+eternal softcore|영원의 영역 소프트 코어
+eternal hardcore|영원의 영역 하드 코어
+Rarities|희귀도
+legendary|전설
+rare|희귀
+unique|고유
+Equipment Type|장비 유형
+amulet|목걸이
+boots|장화
+chestarmor|가슴 방어구
+gloves|장갑
+helm|투구
+pants|바지
+axe|한손 도끼
+crossbow|쇠뇌
+dagger|단검
+focus|중심점
+mace|한손 철퇴
+polearm|미늘창
+scythe|한손 낫
+shield|방패
+staff|지팡이
+sword|한손 도검
+totem|토템
+twohandedaxe|양손 도끼
+twohandedmace|양손 철퇴
+twohandedscythe|양손
+twohandedsword|양손 낫
+wand|마법봉
+Class ResTricTions|클래스 제한
+barbarian|야만용사
+druid|드루이드
+rogue|도적
+sorcerer|원소술사
+non-class specific|클래스 유형 아님
+Sacred / Ancestral|신성 / 선조
+sacred|신성
+ancestral|선조
+Price|가격
+Item Power|아이템 위력
+Level Required|요구 레벨
