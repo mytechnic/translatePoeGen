@@ -28,10 +28,10 @@ public class PoeDataCollector {
     private final PoeDataRepository poeDataRepository;
 
     public void save() {
-//        saveStatic();
-//        saveItems();
-//        saveStats();
-//        savePassiveSkill();
+        saveStatic();
+        saveItems();
+        saveStats();
+        savePassiveSkill();
         saveCustom();
         build();
     }
@@ -323,7 +323,7 @@ public class PoeDataCollector {
     private void store(String category, String source, String target) {
 
         if (source.startsWith("Grants Level # ") && source.endsWith(" Skill")) {
-            log.debug("source: {}, target: {}", source, target);
+            // log.debug("source: {}, target: {}", source, target);
             if (target.startsWith("#레벨 ") && target.endsWith(" 스킬 사용 가능")) {
                 save(category, PatternType.STRING,
                         source.substring(15, source.length() - 6),
@@ -353,7 +353,7 @@ public class PoeDataCollector {
 
         int count = poeDataRepository.countBySource(source);
         if (count > 0) {
-            log.info("exists record: {}, {}, {} -> {}", category, patternType, source, text);
+//            log.info("exists record: {}, {}, {} -> {}", category, patternType, source, text);
             return;
         }
 
