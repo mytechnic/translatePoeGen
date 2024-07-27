@@ -31,15 +31,6 @@ public class PoeClient {
             return null;
         }
 
-        if (country == Country.KR) {
-            ItemEntry itemEntry = new ItemEntry();
-            itemEntry.setType("무거운 화살통");
-            items.getResult().get(1).getEntries().add(432, itemEntry);
-
-            itemEntry.setType("염소인간 주술사");
-            items.getResult().get(10).getEntries().add(83, itemEntry);
-        }
-
         return save(country, "items", items);
     }
 

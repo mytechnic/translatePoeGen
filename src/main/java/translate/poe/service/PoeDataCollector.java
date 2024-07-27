@@ -166,9 +166,51 @@ public class PoeDataCollector {
         }
     }
 
+    private void findItemIndexAndPrint(Items kr, Items us, int index, String krType) {
+        for (int i = 0; i < us.getResult().get(index).getEntries().size(); i++) {
+            ItemEntry usItem = us.getResult().get(index).getEntries().get(i);
+            if (kr.getResult().get(index).getEntries().size() <= i) {
+                log.info("eng: {}, kor: null, index: {}", usItem.getType(), i);
+                break;
+            }
+
+            ItemEntry krItem = kr.getResult().get(index).getEntries().get(i);
+
+            if (krType.equals(krItem.getType())) {
+                log.info("eng: {}, kor: {}, index: {}", usItem.getType(), krItem.getType(), i);
+            }
+        }
+    }
+
+    private void findItemAllPrint(Items kr, Items us, int index) {
+        for (int i = 0; i < us.getResult().get(index).getEntries().size(); i++) {
+            ItemEntry usItem = us.getResult().get(index).getEntries().get(i);
+            if (kr.getResult().get(index).getEntries().size() <= i) {
+                log.info("eng: {}, kor: null, index: {}", usItem.getType(), i);
+                break;
+            }
+
+            ItemEntry krItem = kr.getResult().get(index).getEntries().get(i);
+
+            log.info("eng: {}, kor: {}, index: {}", usItem.getType(), krItem.getType(), i);
+        }
+    }
+
+    private void addKrItem(Items kr, int index, int i, String type) {
+        ItemEntry itemEntry = new ItemEntry();
+        itemEntry.setType(type);
+        kr.getResult().get(index).getEntries().add(i, itemEntry);
+    }
+
     private void saveItems() {
         Items us = poeClient.getItems(Country.US);
         Items kr = poeClient.getItems(Country.KR);
+
+        addKrItem(kr, 1, 119, "성스러운 사슬 갑옷");
+        addKrItem(kr, 1, 485, "무거운 화살통");
+        addKrItem(kr, 10, 83, "염소인간 주술사");
+
+        // findItemAllPrint(kr, us, 10);
 
         // 사전 데이터 점검
         for (int i = 0; i < us.getResult().size(); i++) {
@@ -181,7 +223,7 @@ public class PoeDataCollector {
             }
 
             if (sourceItem.getEntries().size() != targetItem.getEntries().size()) {
-                log.warn("entries not matched- index: {}, id: {}, label: {}, size: {}/{}",
+                log.warn("entries not matched- index: {}, id: {}, label: {}, size(us: {} / kr: {})",
                         i, targetItem.getId(), targetItem.getLabel(), sourceItem.getEntries().size(), targetItem.getEntries().size());
                 return;
             }
