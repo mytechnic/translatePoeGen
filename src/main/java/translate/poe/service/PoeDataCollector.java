@@ -382,6 +382,11 @@ public class PoeDataCollector {
         } else {
             save(category, PatternType.STRING, source, target);
         }
+
+        if ("Gems".equals(category) && source.endsWith(" Support")) {
+            String newSource = source.substring(0, source.length() - 8);
+            save(category, PatternType.STRING, newSource, target);
+        }
     }
 
     private void save(String category, PatternType patternType, String source, String text) {
