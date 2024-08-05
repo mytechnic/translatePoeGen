@@ -398,13 +398,17 @@ public class PoeDataCollector {
             return;
         }
 
-        int count = poeDataRepository.countBySource(source);
-        if (count > 0) {
-//            log.info("exists record: {}, {}, {} -> {}", category, patternType, source, text);
-            return;
+        PoeDataEntity entity = poeDataRepository.findBySource(source)
+                .orElse(new PoeDataEntity());
+        if (entity.getNo() != null) {
+            if (entity.getTextLength() >= text.length()) {
+                return;
+            }
+            entity.setUpdated(LocalDateTime.now());
+        } else {
+            entity.setCreated(LocalDateTime.now());
         }
 
-        PoeDataEntity entity = new PoeDataEntity();
         entity.setSeason(Season.Necropolis);
         entity.setCategory(category);
         entity.setPatternType(patternType);
@@ -412,7 +416,7 @@ public class PoeDataCollector {
         entity.setText(text);
         entity.setSourceLength(source.length());
         entity.setTextLength(text.length());
-        entity.setCreated(LocalDateTime.now());
+
         poeDataRepository.save(entity);
     }
 
