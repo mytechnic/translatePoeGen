@@ -16,8 +16,10 @@ import translate.poe.utils.FileUtils;
 import translate.poe.utils.JsonUtils;
 
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.Optional;
 import java.util.regex.Pattern;
 
 @Slf4j
@@ -222,10 +224,34 @@ public class PoeDataCollector {
                 return;
             }
 
-            if (sourceItem.getEntries().size() != targetItem.getEntries().size()) {
-                log.warn("entries not matched- index: {}, id: {}, label: {}, size(us: {} / kr: {})",
-                        i, targetItem.getId(), targetItem.getLabel(), sourceItem.getEntries().size(), targetItem.getEntries().size());
-                return;
+            if (sourceItem.getEntries().isEmpty()) {
+                continue;
+            }
+
+            if (sourceItem.getEntries().get(0).getId() != null) {
+                List<ItemEntry> sEnt = new ArrayList<>();
+                List<ItemEntry> tEnt = new ArrayList<>();
+                for (int j = 0; j < sourceItem.getEntries().size(); j++) {
+                    String sId = sourceItem.getEntries().get(j).getId();
+                    Optional<ItemEntry> tRet = targetItem.getEntries().stream()
+                            .filter(tId -> tId.getId().equals(sId))
+                            .findAny();
+
+                    if (tRet.isEmpty()) {
+                        continue;
+                    }
+
+                    sEnt.add(sourceItem.getEntries().get(j));
+                    tEnt.add(tRet.get());
+                }
+                sourceItem.setEntries(sEnt);
+                targetItem.setEntries(tEnt);
+            } else {
+                if (sourceItem.getEntries().size() != targetItem.getEntries().size()) {
+                    log.warn("entries not matched- index: {}, id: {}, label: {}, size(us: {} / kr: {})",
+                            i, targetItem.getId(), targetItem.getLabel(), sourceItem.getEntries().size(), targetItem.getEntries().size());
+                    return;
+                }
             }
         }
 
@@ -273,10 +299,34 @@ public class PoeDataCollector {
                 return;
             }
 
-            if (sourceItem.getEntries().size() != targetItem.getEntries().size()) {
-                log.warn("entries not matched- index: {}, id: {}, label: {}, size: {}/{}",
-                        i, targetItem.getId(), targetItem.getLabel(), sourceItem.getEntries().size(), targetItem.getEntries().size());
-                return;
+            if (sourceItem.getEntries().isEmpty()) {
+                continue;
+            }
+
+            if (sourceItem.getEntries().get(0).getId() != null) {
+                List<StatEntry> sEnt = new ArrayList<>();
+                List<StatEntry> tEnt = new ArrayList<>();
+                for (int j = 0; j < sourceItem.getEntries().size(); j++) {
+                    String sId = sourceItem.getEntries().get(j).getId();
+                    Optional<StatEntry> tRet = targetItem.getEntries().stream()
+                            .filter(tId -> tId.getId().equals(sId))
+                            .findAny();
+
+                    if (tRet.isEmpty()) {
+                        continue;
+                    }
+
+                    sEnt.add(sourceItem.getEntries().get(j));
+                    tEnt.add(tRet.get());
+                }
+                sourceItem.setEntries(sEnt);
+                targetItem.setEntries(tEnt);
+            } else {
+                if (sourceItem.getEntries().size() != targetItem.getEntries().size()) {
+                    log.warn("entries not matched- index: {}, id: {}, label: {}, size: {}/{}",
+                            i, targetItem.getId(), targetItem.getLabel(), sourceItem.getEntries().size(), targetItem.getEntries().size());
+                    return;
+                }
             }
 
             for (int j = 0; j < sourceItem.getEntries().size(); j++) {

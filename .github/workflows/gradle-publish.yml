@@ -1,0 +1,69 @@
+name: Java CI with Gradle
+on:
+  push:
+    branches: [ "dev" ]
+jobs:
+  build:
+    ## checkout후 자바 17 버전으로 설정을 합니다
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+      - name: Set up JDK 17
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+      ## gradlew 의 권한을 줍니다.
+      - name: install gradle
+        run: gradle wrapper
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+      ## gradle build
+      - name: Build and package with Gradle
+        run: ./gradlew build --no-daemon
+      - name: Set up Docker environment
+        uses: docker/setup-buildx-action@v1
+      - name: Build Docker image
+        run: |
+          docker build \
+            --file Dockerfile \
+            --tag my-app:latest \
+            --build-arg JAR_FILE=build/libs/*.jar \
+            .
+      ## 이미지 태그에 시간 설정을 하기위해서 현재 시간을 가져옵니다.
+      - name: Get current time
+        uses: 1466587594/get-current-time@v2
+        id: current-time
+        with:
+          format: YYYY-MM-DDTHH-mm-ss
+          utcOffset: "+09:00"
+      - name: Show Current Time
+        run: echo "CurrentTime=${{steps.current-time.outputs.formattedTime}}"
+      ## AWS에 로그인합니다. aws-region은 서울로 설정(ap-northeast-2)했습니다
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: xxxxxxxxxxx
+          aws-secret-access-key: xxxxxxx
+          aws-region: ap-northeast-2
+      ## ECR에 로그인합니다
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+      ## sample라는 ECR 리파지터리에 현재 시간 태그를 생성하고, 푸쉬합니다. xxx부분은 본인의 레파지터리 주소입니다.
+      ## 앞의 스탭에서 ${{steps.current-time.outputs.formattedTime}}로 현재 시간을 가져옵니다.
+      - name: Tag Docker image
+        run: |
+          docker tag my-app:latest ${{ steps.login-ecr.outputs.registry }}/dev-xxxx
+      - name: Push Docker image to ECR
+        run: |
+          docker push ${{ steps.login-ecr.outputs.registry }}/dev-xxxxx
+      - name: ArgoCd Login
+        run: |
+          curl -sSL -o /usr/local/bin/argocd https://github.com/argoproj/argo-cd/releases/latest/download/argocd-linux-amd64 && chmod +x /usr/local/bin/argocd
+          argocd login dev-argocd.ethmars.com --grpc-web --username=${{ secrets.ARGO_USERNAME }} --password=${{ secrets.ARGO_PASSWORD }}
+      - name: ArgoCd Deploy
+        run: |
+          argocd app actions run dev-xxxx restart --kind StatefulSet  --grpc-web

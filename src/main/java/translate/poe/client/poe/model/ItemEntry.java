@@ -4,8 +4,10 @@ import lombok.Data;
 
 @Data
 public class ItemEntry {
+    private String id;
     private String type;
     private String text;
     private String name;
     private ItemFlag flags;
+    private ItemOption option;
 }

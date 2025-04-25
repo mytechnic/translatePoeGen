@@ -828,3 +828,94 @@ ancestral|선조
 Price|가격
 Item Power|아이템 위력
 Level Required|요구 레벨
+Lesser|하급
+Greater|상급
+Grand|우수한
+Exceptional|특출난
+Exquisite|정교한
+Perfect|완벽한
+Open Room|열려 있는 방
+Closed Room|닫혀 있는 방
+Fire|화염
+Cold|냉기
+Maximum Life|최대 생명력
+Spirit|정신력
+Chaos|카오스
+Unnatural Resilience|초자연적인 회복력
+Polymathy|박식
+Reduced Attribute Requirements|능력치 요구사항 감소
+Sturdy Metal|튼튼한 금속
+Stone Skin|돌 가죽
+Colossal Capacity|엄청난 역량
+Hulking Form|육중한 형체
+Crushing Impacts|타쇄하는 충격
+Ancestral Empowerment|선대의 강화
+Stun Buildup|기절 누적
+Surprising Strength|놀라운 힘
+Smith's Masterwork|대장장이의 걸작
+Heat of the Forge|대장간의 열기
+Coal Stoker|석탄 때기
+Forged in Flame|불길 벼림
+Against the Anvil|모루와의 싸음
+Living Weapon|살아있는 무기
+Smith's Masterwork|대장장이의 걸작
+Dedication to Kitava|키타바에 대한 헌신
+Internal Layer|내부층
+Heavy Bracing|묵직한 버팀대
+Leather Bindings|가죽 군장
+Molten Symbol|녹아내린 상징
+Flowing Metal|흐르는 금속
+Heatproofing|내열성
+Support Straps|고정 끈
+Kitavan Engraving|키타바의 각인
+Tantalum Alloy|탄탄륨 합금
+Lead Lining|납 안감
+Padded Plates|패드를 덧댄 판금
+execute|처형
+raging cry|격노하는 함성
+brink|목전
+Perfect Strike|완벽한 타격
+Martial Tempo|무도의 속도
+Hammer of the Gods|신들의 망치
+Supercharged Slam|초과 충전 강타
+Giant's Blood|거인의 피
+Mysterious Lineage|수수께끼의 혈통
+Orbs of Augmentation|확장의 오브
+Orbs of Transmutation|진화의 오브
+Regal Orbs|제왕의 오브
+Exalted Orbs|엑잘티드 오브
+Orbs of Alchemy|연금술의 오브
+Orbs of Chance|기회의 오브
+Orbs of Annulment|소멸의 오브
+Artificer's Orbs|숙련공의 오브
+Chaos Orbs|카오스 오브
+Fracturing Orbs|분열의 오브
+Lesser Jeweller's Orb|하위 쥬얼러 오브
+Greater Jeweller's Orb|상위 쥬얼러 오브
+Perfect Jeweller's Orb|완벽한 주얼러 오브
+Armourer's Scrap|방어구 장인의 고철
+Blacksmith's Whetstone|대장장이의 숫돌
+Arcanist's Etcher|신비학자의 식각기
+Glassblower's Bauble|유리 직공의 방울
+Gemcutter's Prism|세공사의 프리즘
+Iron Runes|철룬
+Body Runes|육신 룬
+Scattershot|난사
+Molten Blast|녹아내린 폭발
+Mace Strike|철퇴 타격
+Parrying Motion|흘려보내기 동작
+Upheaval|격변
+Aftershock|여진
+Heft|중량
+Heavy Swing|묵직한 휘두르기
+Impact Shockwave|충돌 충격파
+Overpower|압도
+Magnified Effect|강해진 효과
+Earthquakes|지진
+Fire Infusion|화염 주입
+Premeditation|모의
+Scavenged Plating|주운 판금
+Dodge Roll|회피 구르기
+Cannibalism|식인
+Reach|내뻗기
+Overwhelming Presence|압도적인 존재감
